@@ -1,0 +1,19 @@
+<feed>
+<resultLength>4</resultLength>
+<endIndex>4</endIndex>
+<item sdImg="" hdImg="">
+<title>2011</title>
+<contentId>10001</contentId>
+<contentType>Talk</contentType>
+<contentQuality>SD</contentQuality>
+<media>
+<streamFormat>mp4</streamFormat>
+<streamQuality>SD</streamQuality>
+<streamBitrate>1500</streamBitrate>
+<streamUrl>http://cs50.tv/2011/fall/lectures/0/week0w.mp4</streamUrl>
+<streamUrl>http://cs50.tv/2011/fall/lectures/0/week0f.mp4</streamUrl>
+</media>
+<synopsis>2011</synopsis>
+<genres>Clip</genres>
+</item>
+</feed>
