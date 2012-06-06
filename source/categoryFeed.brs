@@ -12,7 +12,7 @@ Function InitCategoryFeedConnection() As Object
 
     conn = CreateObject("roAssociativeArray")
 
-    conn.UrlPrefix   = "https://raw.github.com/cs50/roku50/master/xml"
+    conn.UrlPrefix   = "http://cloud.cs50.net/~jessechen21/roku50/xml"
     conn.UrlCategoryFeed = conn.UrlPrefix + "/categories.xml"
 
     conn.Timer = CreateObject("roTimespan")

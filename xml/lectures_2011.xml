@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed>
+	<!-- resultLength indicates the total number of results for this feed -->
+	<resultLength>4</resultLength>
+	<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+	<endIndex>4</endIndex>
+	<item sdImg="https://github.com/cs50/roku50/raw/master/images/_sd_Roku50.png" hdImg="https://github.com/cs50/roku50/raw/master/images/_hd_Roku50.png">
+		<title>Week 0 Wednesday</title>
+		<contentId>10001</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://cdn.cs50.net/2011/fall/lectures/0/week0w.mp4</streamUrl>
+		</media>
+		<synopsis>Week 0 Wednesday</synopsis>
+		<genres>Clip</genres>
+		<runtime>3000</runtime>
+	</item>	
+	<item sdImg="https://github.com/cs50/roku50/raw/master/images/_sd_Roku50.png" hdImg="https://github.com/cs50/roku50/raw/master/images/_hd_Roku50.png">
+		<title>Week 0 Friday</title>
+		<contentId>10002</contentId>
+		<contentType>Talk</contentType>
+		<contentQuality>SD</contentQuality>
+		<media>
+			<streamFormat>mp4</streamFormat>
+			<streamQuality>SD</streamQuality>
+			<streamBitrate>1500</streamBitrate>
+			<streamUrl>http://cdn.cs50.net/2011/fall/lectures/0/week0f.mp4</streamUrl>
+		</media>
+		<synopsis>Week 0 Friday Lecture</synopsis>
+		<genres>Technology</genres>
+		<runtime>3000</runtime>
+	</item>	
+</feed>
