@@ -12,7 +12,7 @@ Function InitCategoryFeedConnection() As Object
 
     conn = CreateObject("roAssociativeArray")
 
-    conn.UrlPrefix   = "http://rokudev.roku.com/rokudev/examples/videoplayer/xml"
+    conn.UrlPrefix   = "https://raw.github.com/cs50/roku50/master/xml/"
     conn.UrlCategoryFeed = conn.UrlPrefix + "/categories.xml"
 
     conn.Timer = CreateObject("roTimespan")
