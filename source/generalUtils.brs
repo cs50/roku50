@@ -205,7 +205,7 @@ End Function
 '******************************************************
 Function strtobool(obj As dynamic) As Boolean
     if obj = invalid return false
-    if type(obj) <> "roString" return false
+    if type(obj) <> "roString" and type(obj) <> "String" return false
     o = strTrim(obj)
     o = Lcase(o)
     if o = "true" return true
@@ -336,7 +336,7 @@ Function GetXMLElementBodiesByName(xml As Object, name As String) As Object
     for each e in xml.GetBody()
         if e.GetName() = name then
             b = e.GetBody()
-            if type(b) = "roString" list.Push(b)
+            if type(b) = "roString" or type(b) = "String" list.Push(b)
         endif
     next
 
@@ -368,7 +368,7 @@ End Function
 Function GetFirstXMLElementBodyStringByName(xml As Object, name As String) As dynamic
     e = GetFirstXMLElementByName(xml, name)
     if e = invalid return invalid
-    if type(e.GetBody()) <> "roString" return invalid
+    if type(e.GetBody()) <> "roString" and type(e.GetBody()) <> "String" return invalid
     return e.GetBody()
 End Function
 
@@ -379,7 +379,7 @@ End Function
 'return invalid if body not a string, else the integer as converted by strtoi
 '******************************************************
 Function GetXMLBodyAsInteger(xml As Object) As dynamic
-    if type(xml.GetBody()) <> "roString" return invalid
+    if type(xml.GetBody()) <> "roString" and type(xml.GetBody()) <> "String" return invalid
     return strtoi(xml.GetBody())
 End Function
 
@@ -426,7 +426,7 @@ End Function
 Sub GetXMLintoAA(xml As Object, aa As Object)
     for each e in xml.GetBody()
         body = e.GetBody()
-        if type(body) = "roString" then
+        if type(body) = "roString" or type(body) = "String" then
             name = e.GetName()
             name = strReplace(name, ":", "_")
             aa.AddReplace(name, body)
@@ -608,7 +608,7 @@ Sub PrintXML(element As Object, depth As Integer)
 
     if element.GetBody()=invalid then
         ' print tab(depth*3);"No Body"
-    else if type(element.GetBody())="roString" then
+    else if type(element.GetBody())="roString" or type(element.GetBody())="String" then
         print tab(depth*3);"Contains string: [" + left(element.GetBody(), 4000) + "]"
     else
         print tab(depth*3);"Contains list:"
@@ -643,7 +643,11 @@ End Sub
 'Validate parameter is the correct type
 '******************************************************
 Function validateParam(param As Object, paramType As String,functionName As String, allowInvalid = false) As Boolean
-    if type(param) = paramType then
+    if paramType = "roString" or paramType = "String" then
+        if type(param) = "roString" or type(param) = "String" then
+            return true
+        end if
+    else if type(param) = paramType then
         return true
     endif
 

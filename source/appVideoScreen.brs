@@ -24,7 +24,6 @@ Function showVideoScreen(episode As Object)
     screen = CreateObject("roVideoScreen")
     screen.SetMessagePort(port)
 
-    screen.Show()
     screen.SetPositionNotificationPeriod(30)
     screen.SetContent(episode)
     screen.Show()

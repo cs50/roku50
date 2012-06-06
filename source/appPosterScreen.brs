@@ -38,8 +38,15 @@ Function showPosterScreen(screen As Object, category As Object) As Integer
 
     m.curCategory = 0
     m.curShow     = 0
-
-    screen.SetListNames(getCategoryList(category))
+    temp=getcategorylist(category)
+    
+    
+    if temp.count() > 1 then
+    	screen.SetListNames(temp)
+    	?temp.count();" categories"
+    	else 
+    	?"only ";temp.count();" category"
+    end if
     screen.SetContentList(getShowsForCategoryItem(category, m.curCategory))
     screen.Show()
 
@@ -50,9 +57,12 @@ Function showPosterScreen(screen As Object, category As Object) As Integer
             if msg.isListFocused() then
                 m.curCategory = msg.GetIndex()
                 m.curShow = 0
+                screen.setcontentlist([])
                 screen.SetFocusedListItem(m.curShow)
+                screen.showmessage("Retrieving")
                 screen.SetContentList(getShowsForCategoryItem(category, m.curCategory))
-                print "list focused | current category = "; m.curCategory
+                screen.clearmessage()
+				print "list focused | current category = "; m.curCategory
             else if msg.isListItemSelected() then
                 m.curShow = msg.GetIndex()
                 print "list item selected | current show = "; m.curShow

@@ -63,10 +63,12 @@ Function showDetailScreen(screen As Object, showList As Object, showIndex as Int
                         showList[showIndex].PlayStart = PlayStart.ToInt()
                     endif
                     showVideoScreen(showList[showIndex])
+                    refreshShowDetail(screen,showList,showIndex)
                 endif
                 if msg.GetIndex() = 2
                     showList[showIndex].PlayStart = 0
                     showVideoScreen(showList[showIndex])
+                    refreshShowDetail(screen,showList,showIndex)
                 endif
                 if msg.GetIndex() = 3
                 endif
@@ -101,8 +103,12 @@ Function refreshShowDetail(screen As Object, showList As Object, showIndex as In
     'PrintAA(show)
 
     screen.ClearButtons()
-    screen.AddButton(1, "resume playing")    
-    screen.AddButton(2, "play from beginning")    
+    if regread(show.contentid) <> invalid and regread(show.contentid).toint() >=30 then
+    screen.AddButton(1, "Resume playing")    
+    screen.AddButton(2, "Play from beginning")    
+    else
+    screen.addbutton(2,"Play")
+    end if
     screen.SetContent(show)
     screen.Show()
 
