@@ -1,0 +1,2057 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://www.python.org/topics/xml/dtds/xbel-1.0.dtd">
+
+<xbel version='1.0'>
+  <folder><title>Lectures</title><folder folded="yes">
+    <title>Week 0</title>
+    <desc>Introduction.  Bits.  Binary.  ASCII.  Programming.  Algorithms.  Scratch.  Statements.  Boolean expressions.  Conditions.  Loops.  Variables.  Threads.  Events.</desc>
+    <bookmark href="http://cdn.cs50.net/2010/fall/fair/program.pdf">
+      <title>CS50 Fair 2010 Program</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/demos/hardriv1.avi">
+        <title>How hard drives work</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/demos/hardriv2.avi">
+        <title>How hard drives work, continued</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="no">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/hand-covers-bruise/id395740920?i=395740925">
+          <title>Hand Covers Bruise by Trent Reznor &amp; Atticus Ross</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/stereo-hearts-feat.-adam-levine/id441174238?i=441174241">
+          <title>Stereo Hearts (feat. Adam Levine) by Gym Class Heroes</title>
+        </bookmark>
+      </folder>
+      <folder folded="no">
+        <title>Friday</title>
+        <bookmark href="http://itunes.apple.com/us/album/lights-bassnectar-remix/id447845349?i=447845378">
+          <title>Lights (Bassnectar Remix) by Bassnectar</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/notes0w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/notes0f.pdf">
+        <title>Friday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/week0w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/week0f.pdf">
+        <title>Friday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://scratch.mit.edu/projects/pem/273162">
+        <title>Dancing Cookies</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/projects/cs50/267151">
+        <title>FruitcraftRPG</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/projects/cs50/37412">
+        <title>Raining Men</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/projects/lindorniel/40241">
+        <title>Scratch Scratch Revolution</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/projects/klogan15/1291312">
+        <title>YMCA</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/src0/">
+        <title>more...</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/week0w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/week0f.srt">
+        <title>Friday</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/syllabus.pdf">
+      <title>Syllabus</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/week0w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/0/week0f.txt">
+        <title>Friday</title>
+      </bookmark>
+    </folder>    
+    <bookmark href="http://guide.cs50.net/">
+      <title>Unofficial Guide to CS at Harvard</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/0/week0w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/0/week0f.mp4">
+       <title>Friday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Week 1</title>
+    <desc>C.  Source code.  Compilers.  Object code.  GCC.  Functions.  Comments.  Standard output.  Arithmetic operators.  Precedence.  Local variables.  Types.  Casting.  Standard input.  Libraries.  Boolean expressions, continued.  Conditions, continued.  Loops, continued.</desc>
+    <folder folded="yes">
+      <title>Demos</title>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://www.youtube.com/watch?v=EMVBLg2MrLs">
+          <title>Engineering Disasters 13 - Software Flaws</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/electronic-dream/id431643372?i=431643418">
+          <title>Electronic Dream by Araabmuzik</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/uprising/id326492721?i=326492752">
+          <title>Uprising by Muse</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/notes1w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/notes1f.pdf">
+        <title>Friday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/week1w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/week1f.pdf">
+        <title>Friday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/src1.git/">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/src1/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/src1.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/src1.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/week1w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/week1f.srt">
+        <title>Friday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/week1w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/1/week1f.txt">
+        <title>Friday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/1/week1w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/1/week1f.mp4">
+        <title>Friday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Week 2</title>
+    <desc>Functions, continued.  Global variables.  Parameters.  Return values.  Stack.  Frames.  Scope.  Arrays.  Strings.  Command-line arguments.  Cryptography.</desc>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://www.youtube.com/watch?v=zdA__2tKoIU">
+        <title>Be sure to drink your Ovaltine</title>
+      </bookmark>
+      <bookmark href="http://www.asciimation.co.nz/">
+        <title>STAR WARS ASCIIMATION</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/us/album/circling/id350052260?i=350052315">
+          <title>Circling by Four Tet</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/mirando/id281919742?i=281919854">
+          <title>Mirando by Ratatat</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/adagio-for-strings/id383785915?i=383786289">
+          <title>Adagio for Strings by Tiësto</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/notes2m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/notes2w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/week2m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/week2w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/src2.git/">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/src2/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/src2.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/src2.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/week2m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/week2w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>   
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/week2m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/2/week2w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/2/week2m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/2/week2w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Week 3</title>
+    <desc>Linear search.  Binary search.  Asymptotic notation.  Recursion.  Bubble sort.  Selection sort.  Debugging.</desc>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://cg.scs.carleton.ca/~morin/misc/sortalg/">
+        <title>Improved Sorting Algorithm Demo</title>
+      </bookmark>
+      <bookmark href="http://cs.smith.edu/~thiebaut/java/sort/demo.html">
+        <title>Sorting Algorithms</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/us/album/traffic/id383785915?i=383786004">
+          <title>Traffic by DJ Tiësto</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://www.thinkwithportals.com/music.php">
+          <title>Science is Fun from Portal 2</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/notes3m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/notes3w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/week3m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/week3w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/src3.git/">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/src3/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/src3.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/src3.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/week3m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/week3w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/week3m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/3/week3w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/3/week3m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/3/week3w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Week 4</title>
+    <desc>Merge sort.  Structures.  Dynamic memory allocation.  Pointers.  Debugging, continued.</desc>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://www.youtube.com/watch?v=k4RRi_ntQc8">
+        <title>Barack Obama - Computer Science Question</title>
+      </bookmark>
+      <bookmark href="http://cslibrary.stanford.edu/104/">
+        <title>Binky Pointer Fun Video</title>
+      </bookmark>
+      <bookmark href="http://www.sorting-algorithms.com">
+        <title>Sorting Algorithm Animations</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/watch?v=t8g-iYGHpEA">
+        <title>What different sorting algorithms sound like</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/us/album/pjanoo-club-mix/id286945078?i=286945210">
+          <title>Pjanoo (Club Mix) by Eric Prydz</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/tonic/id435693894?i=435693948">
+          <title>Tonic by Russ Chimes</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/notes4m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/notes4w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/week4m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/week4w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/src4.git">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/src4/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/src4.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/src4.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/week4m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/week4w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/week4m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/4/week4w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/4/week4m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/4/week4w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Week 5</title>
+    <desc>CS50 Library.  Heap.  Pointers, continued.  Forensics.</desc>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://www.youtube.com/watch?v=ygB0ZviqXac">
+        <title>Computer illiteracy and American Television</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/watch?v=lGeAu2RQcmw">
+        <title>csi photo enhancement</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/watch?v=dFUlAQZB9Ng">
+        <title>It's a Unix system</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/watch?v=5ceaqtWhdnI">
+        <title>Numb3rs IP Fail</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/us/album/a-new-error/id315489205?i=315489351">
+          <title>A New Error by Moderat</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/better-wipe-that-up-original/id444580844?i=444580864">
+          <title>Better Wipe That Up by Lazy Rich</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/barbra-streisand/id396169228?i=396169252">
+          <title>Barbra Streisand by Duck Sauce</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/notes5m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/notes5w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/week5m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/week5w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/src5.git">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/src5/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/src5.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/src5.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder> 
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/week5m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/week5w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/week5m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/5/week5w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/5/week5m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/5/week5w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Week 7</title>
+    <desc>File I/O.  Linked lists.  Stacks.  Queues.  Valgrind.  Hash tables.  Trees.  Binary search trees.  Tries.</desc>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/demos/">
+        <title>Flags</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/user/AlgoRythmics#p/u/1/XaqR3G_NVoo">
+        <title>Merge-sort with Transylvanian-saxon (German) folk dance</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/us/album/houdini/id435761204?i=435761289">
+          <title>Houdini by Foster the People</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/communication-pt.-3/id206476588?i=206478118">
+          <title>Communication, Pt. 3 by Armin van Buuren</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/stay-the-course/id453241346?i=453241347">
+          <title>Stay the Course, by Ansel Duff</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/notes7m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/notes7w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/week7m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/week7w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/src7.git/">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/src7/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/src7.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/src7.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/week7m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/week7w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/week7m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/7/week7w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/7/week7m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/7/week7w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="no">
+    <title>Week 8</title>
+    <desc>HTTP.  HTML.  CSS.  PHP.</desc>
+    <folder folded="yes">
+      <title>Cheatsheets</title>
+      <bookmark href="8/cheatsheets/rc064-010d-core_html_1.pdf">
+        <title>Core HTML</title>
+      </bookmark>
+      <bookmark href="8/cheatsheets/css-cheat-sheet-v2.pdf">
+        <title>CSS</title>
+      </bookmark>
+      <bookmark href="8/cheatsheets/html-cheat-sheet-v1.pdf">
+        <title>HTML</title>
+      </bookmark>
+      <bookmark href="8/cheatsheets/php-cheat-sheet-v2.pdf">
+        <title>PHP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://neswork.com/logo-generator/google-font">
+        <title>Google Logo Generator</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/watch?v=c3YjrtILbik">
+        <title>Trailer Warriors of the net</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/watch?v=PBWhzz_Gn10">
+        <title>Warriors of the Net HD</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/gb/album/heart-vacancy-djs-from-mars/id390693466?i=390693564">
+          <title>Heart Vacancy (DJs from Mars Remix) by The Wanted</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/koko/id461797206?i=461797230">
+          <title>Koko by Sander van Doorn</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/notes8m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/notes8w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/week8m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/week8w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/src8.git/">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/src8/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/src8.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/src8.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/week8m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/week8w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/week8m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/8/week8w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/8/week8m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/8/week8w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="no">
+    <title>Week 9</title>
+    <desc>PHP, Continued.  SQL.</desc>
+    <folder folded="yes">
+      <title>Cheatsheets</title>
+      <bookmark href="8/cheatsheets/mysql-cheat-sheet-v1.pdf">
+        <title>MySQL</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/us/album/halloween-movie-theme-by-john/id396000172?i=396000174">
+          <title>Halloween Movie Theme by John Carpenter (Tom Rossi's Big Drum Remix)</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/monster-mash/id256225830?i=256225849">
+          <title>Monster Mash by Bobby "Boris" Pickett &amp; The Crypt-Kickers</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/tocatta-fugue-in-d-minor-bwv.565/id301768898?i=301768914">
+          <title>Tocatta and Fugue In D Minor, BWV.565 by the Graveyard Orchestra</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/mortal-kombat-2011-techno/id473970227?i=473970255">
+          <title>Mortal Kombat 2k11 (Techno Syndrome) [Thomas You Electro Remix Edit] by DJ Analyzer &amp; Cary August</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/notes9m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/notes9w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/week9m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/week9w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/src9.git/">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/src9/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/src9.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/src9.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/week9m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/week9w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/week9m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/9/week9w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/9/week9m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/9/week9w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="no">
+    <title>Week 10</title>
+    <desc>JavaScript.  Ajax.  APIs.</desc>
+    <folder folded="yes">
+      <title>Demos</title>
+      <bookmark href="http://www.ajaxload.info/">
+        <title>Ajaxload</title>
+      </bookmark>
+      <bookmark href="https://shuttle.cs50.net/">
+        <title>CS50 Shuttle</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Music</title>
+      <folder folded="yes">
+        <title>Monday</title>
+        <bookmark href="http://itunes.apple.com/us/album/cafe-del-mar-deadmau5-remix/id318664183?i=318664260">
+          <title>Café del Mar (deadmau5 Remix)</title>
+        </bookmark>
+        <bookmark href="http://itunes.apple.com/us/album/dramatic-music/id343131688?i=343131692">
+          <title>Dramatic Music by Drullen</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Wednesday</title>
+        <bookmark href="http://itunes.apple.com/us/album/aural-psynapse-original-mix/id477828194?i=477828571">
+          <title>Aural Psynapse (Original Mix) by deadmau5</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Notes</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/notes10m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/notes10w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/week10m.pdf">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/week10w.pdf">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/src10.git">
+        <title>git</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/src10/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/src10.pdf">
+        <title>PDF</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/src10.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/week10m.srt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/week10w.srt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/week10m.txt">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/10/week10w.txt">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/10/week10m.mp4">
+        <title>Monday</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/10/week10w.mp4">
+        <title>Wednesday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Week 11</title>
+    <desc>Life after 50.</desc>
+    <folder folded="yes">
+      <title>Slides</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/11/week11m.pdf">
+        <title>Monday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Teasers</title>
+      <folder folded="yes">
+        <title>Slides</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/lectures/11/cs20.pdf">
+          <title>CS20</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2010/fall/lectures/11/cs51.pdf">
+          <title>CS51</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2010/fall/lectures/11/cs61.pdf">
+          <title>CS61</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2010/fall/lectures/11/cs105.pdf">
+          <title>CS105</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2010/fall/lectures/11/cs121.pdf">
+          <title>CS121</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2010/fall/lectures/11/cs124.pdf">
+          <title>CS124</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2010/fall/lectures/11/cs141.pdf">
+          <title>CS141</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/lectures/11/cs171.pdf">
+          <title>CS171</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/lectures/11/cs179.pdf">
+          <title>CS179</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Videos</title>
+        <bookmark href="http://cs50.tv/2011/fall/lectures/11/cs20.mp4">
+          <title>CS20</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2010/fall/lectures/11/cs51.mp4">
+          <title>CS51</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2010/fall/lectures/11/cs61.mp4">
+           <title>CS61</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2010/fall/lectures/11/cs105.mp4">
+          <title>CS105</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2010/fall/lectures/11/cs121.mp4">
+          <title>CS121</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2010/fall/lectures/11/cs124.mp4">
+          <title>CS124</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2010/fall/lectures/11/cs141.mp4">
+          <title>CS141</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2011/fall/lectures/11/cs171.mp4">
+          <title>CS171</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2011/fall/lectures/11/cs179.mp4">
+          <title>CS179</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/11/week11m.srt">
+        <title>Monday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/11/week11m.txt">
+        <title>Monday</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://guide.cs50.net/">
+      <title>Unofficial Guide to CS at Harvard</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/11/week11m.mp4">
+        <title>Monday</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="no">
+    <title>Week 12</title>
+    <desc>Exciting conclusion.</desc>
+    <folder folded="yes">
+      <title>Promos</title>
+      <bookmark href="http://www.youtube.com/watch?v=_mC9VSa2UCU">
+        <title>CS50 Fair</title>
+      </bookmark>
+      <bookmark href="http://www.youtube.com/watch?v=kI1PD2YGOK0">
+        <title>CS50 Fair: In the Making</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Scratch Awards</title>
+      <bookmark href="http://scratch.mit.edu/projects/Saiph/2020392">
+        <title>Cutest, by Brett Camarda</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/projects/btwalsh/2017963">
+        <title>Most Amazing, by Blake Walsh</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/projects/mdhoffm/2018406">
+        <title>Most Inceptive, by Michael Hoffmann</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cdn.cs50.net/2011/fall/lectures/12/week12m.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Slideshows</title>
+      <bookmark href="http://www.youtube.com/watch?v=0C-vsgT5vrE">
+        <title>This was CS50 2011</title>
+      </bookmark>
+      <!--
+      <bookmark href="http://www.youtube.com/watch?v=dskagwOpFFk">
+        <title>CS50 Thanks 2011</title>
+      </bookmark>
+      -->
+    </folder>
+    <folder folded="yes">
+      <title>Subtitles</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/12/week12m.srt">
+        <title>Monday</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>Transcripts</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/lectures/12/week12m.txt">
+        <title>Monday</title>
+      </bookmark>
+    </folder>    
+    <folder folded="yes">
+      <title>Videos</title>
+      <bookmark href="http://cs50.tv/2011/fall/lectures/12/week12m.mp4">
+        <title>Monday</title>
+      </bookmark>
+    </folder>
+  </folder></folder><folder><title>Sections</title><folder folded="yes">
+    <title>Week 1</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/1/section1.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/1/section1/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/1/section1.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/1/section1.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 2</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/2/section2.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/2/section2/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/2/section2.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/2/section2.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 3</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/3/section3.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/3/section3/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/3/section3.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/3/section3.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 4</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/4/section4.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/4/section4/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/4/section4.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/4/section4.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 5</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/5/section5.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/sections/5/section5.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 6</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/6/section6.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/6/section6/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/6/section6.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/6/section6.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 7</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/7/section7.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/7/section7/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/7/section7.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/7/section7.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 8</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/8/section8.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/8/section8/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/8/section8.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/8/section8.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 9</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/9/section9.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/9/section9/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/9/section9.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/9/section9.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="yes">
+    <title>Week 10</title>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/10/section10.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/10/section10/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/10/section10.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/10/section10.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder></folder><folder><title>Problem Sets</title><folder folded="yes">
+    <title>Problem Set 0: Scratch</title>
+    <folder folded="yes">
+      <title>Galleries</title>
+      <bookmark href="http://scratch.mit.edu/galleries/view/5678">
+        <title>Fall 2007</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/galleries/view/28704">
+        <title>Fall 2008</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/galleries/view/57866">
+        <title>Fall 2009</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/galleries/view/94279">
+        <title>Fall 2010</title>
+      </bookmark>
+      <bookmark href="http://scratch.mit.edu/galleries/view/136305">
+        <title>Fall 2011</title>
+      </bookmark>
+    </folder>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/pset0.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/walkthrough0.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <folder folded="yes">
+          <title>Source Code</title>
+          <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/walkthrough0/">
+            <title>index</title>
+          </bookmark>
+          <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/walkthrough0.zip">
+            <title>ZIP</title>
+          </bookmark>
+        </folder>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/walkthrough0.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/walkthrough0.txt">
+          <title>Transcript</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2011/fall/psets/0/walkthrough0.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Hacker Edition</title>
+      <folder folded="yes">
+        <title>Drivers</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/md_PL2303_MacOSX10.6_dmg_v1.4.0.zip">
+          <title>Mac OS</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/PL2303_Prolific_DriverInstaller_v1417.zip">
+          <title>Windows</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/0/hacker0.pdf">
+        <title>Specification</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 1: C</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/1/pset1.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/1/walkthrough1.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <folder folded="yes">
+          <title>Source Code</title>
+          <bookmark href="http://cdn.cs50.net/2011/fall/psets/1/walkthrough1/">
+            <title>index</title>
+          </bookmark>
+          <bookmark href="http://cdn.cs50.net/2011/fall/psets/1/walkthrough1.zip">
+            <title>ZIP</title>
+          </bookmark>
+        </folder>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/1/walkthrough1.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/1/walkthrough1.txt">
+          <title>Transcript</title>
+        </bookmark>        
+        <bookmark href="http://cs50.tv/2011/fall/psets/1/walkthrough1.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Hacker Edition</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/1/hacker1.pdf">
+        <title>Specification</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 2: Crypto</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/pset2.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/walkthrough2.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <folder folded="yes">
+          <title>Source Code</title>
+          <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/walkthrough2/">
+            <title>index</title>
+          </bookmark>
+          <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/walkthrough2.zip">
+            <title>ZIP</title>
+          </bookmark>
+        </folder>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/walkthrough2.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/walkthrough2.txt">
+          <title>Transcript</title>
+        </bookmark>
+        <bookmark href="http://cs50.tv/2011/fall/psets/2/walkthrough2.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Hacker Edition</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/hacker2/passwd">
+        <title>passwd</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/2/hacker2.pdf">
+        <title>Specification</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 3: The Game of Fifteen</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/pset3.git/">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/pset3/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/pset3.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/pset3.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/walkthrough3.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/walkthrough3.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/walkthrough3.txt">
+          <title>Transcript</title>
+        </bookmark>        
+        <bookmark href="http://cs50.tv/2011/fall/psets/3/walkthrough3.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Hacker Edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/hacker3.git/">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/hacker3/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/hacker3.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/hacker3.pdf">
+        <title>Specification</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 4: 数独</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/pset4.git/">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/pset4/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/pset4.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/pset4.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/walkthrough4.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/walkthrough4.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/walkthrough4.txt">
+          <title>Transcript</title>
+        </bookmark> 
+        <bookmark href="http://cs50.tv/2011/fall/psets/4/walkthrough4.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Hacker Edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/hacker4.git/">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/hacker4/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/hacker4.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/4/hacker4.pdf">
+        <title>Specification</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 5: Forensics</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/pset5.git">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/pset5/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/pset5.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/pset5.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/walkthrough5.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/walkthrough5.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/walkthrough5.txt">
+          <title>Transcript</title>
+        </bookmark> 
+        <bookmark href="http://cs50.tv/2011/fall/psets/5/walkthrough5.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder folded="yes">
+      <title>Hacker Edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/hacker5.git">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/hacker5/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/hacker5.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/5/hacker5.pdf">
+        <title>Specification</title>
+      </bookmark>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 6: Mispellings</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <folder folded="yes">
+        <title>Dictionaries</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/dictionaries/large?display">
+          <title>large</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/dictionaries/small?display">
+          <title>small</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/pset6.git/">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/pset6/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/pset6.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/pset6.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Texts</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/keys/">
+          <title>answer keys</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/texts/">
+          <title>originals</title>
+        </bookmark>
+      </folder>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/6/walkthrough6.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/walkthrough6.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/3/walkthrough6.txt">
+          <title>Transcript</title>
+        </bookmark>         
+        <bookmark href="http://cs50.tv/2011/fall/psets/6/walkthrough6.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 7: C$50 Finance</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/pset7.git/">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/pset7/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/pset7.sql">
+          <title>SQL</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/pset7.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/pset7.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/walkthrough7.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/walkthrough7.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/7/walkthrough7.txt">
+          <title>Transcript</title>
+        </bookmark> 
+        <bookmark href="http://cs50.tv/2011/fall/psets/7/walkthrough7.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+  </folder><folder folded="yes">
+    <title>Problem Set 8: CS50 Shuttle</title>
+    <folder folded="yes">
+      <title>standard edition</title>
+      <folder folded="yes">
+        <title>Distribution Code</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/8/pset8.git/">
+          <title>git</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/8/pset8/">
+          <title>index</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/8/pset8.zip">
+          <title>ZIP</title>
+        </bookmark>
+      </folder>
+      <bookmark href="http://cdn.cs50.net/2011/fall/psets/8/pset8.pdf">
+        <title>Specification</title>
+      </bookmark>
+      <folder folded="yes">
+        <title>Walkthrough</title>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/8/walkthrough8.pdf">
+          <title>Slides</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/8/walkthrough8.srt">
+          <title>Subtitles</title>
+        </bookmark>
+        <bookmark href="http://cdn.cs50.net/2011/fall/psets/8/walkthrough8.txt">
+          <title>Transcript</title>
+        </bookmark>         
+        <bookmark href="http://cs50.tv/2011/fall/psets/8/walkthrough8.mp4">
+          <title>Video</title>
+        </bookmark>
+      </folder>
+    </folder>
+  </folder></folder><folder><title>Quizzes</title><folder folded="no">
+    <title>Quiz 0</title>
+    <desc>Covers weeks 0 through 5.</desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/quizzes/0/quiz0.pdf">
+      <title>questions</title>
+    </bookmark>
+    <bookmark href="http://cdn.cs50.net/2011/fall/quizzes/0/key0.pdf">
+      <title>answers</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Review Session</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/quizzes/0/review0.pdf">
+        <title>Slides</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/quizzes/0/review0.mp4">
+        <title>Video</title>
+      </bookmark>
+    </folder>
+  </folder><folder>
+    <title>Quiz 1</title>
+    <desc>Covers weeks 0 through 10 with emphasis on 7 onward.</desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/quizzes/1/quiz1.pdf">
+      <title>questions</title>
+    </bookmark>
+    <bookmark href="http://cdn.cs50.net/2011/fall/quizzes/1/key1.pdf">
+      <title>answers</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Review Session</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/quizzes/1/review1.pdf">
+        <title>Slides</title>
+      </bookmark>
+      <bookmark href="http://cs50.tv/2011/fall/quizzes/1/review1.mp4">
+        <title>Video</title>
+      </bookmark>
+    </folder>
+  </folder></folder><folder><title>Seminars</title><folder folded="no">
+    <title>Accelerating Science with the Open Science Grid</title>
+    <desc><![CDATA[
+      <p>by Ian Stokes-Rees</p>
+      <p>
+        In the mid-1990s, the high-energy physics community (think <a href="http://en.wikipedia.org/wiki/Fermilab">FermiLab</a> and <a href="http://en.wikipedia.org/wiki/Cern">CERN</a>) started planning for the <a href="http://en.wikipedia.org/wiki/Large_Hadron_Collider">Large Hadron Collider</a>.  Managing the <a href="http://en.wikipedia.org/wiki/Petabyte">petabytes</a> of data that would be generated by the facility and sharing it with the globally distributed community of over 10,000 researchers would be a major infrastructure and technology problem.  This same community that brought us the web has now developed standards, software, and infrastructure for <a href="http://en.wikipedia.org/wiki/Grid_computing">grid computing</a>.  In this seminar I'll present some of the exciting science that is being done on the <a href="http://en.wikipedia.org/wiki/Open_Science_Grid">Open Science Grid</a>, the US national <a href="http://en.wikipedia.org/wiki/Cyberinfrastructure">cyberinfrastructure</a> linking 60 institutions (Harvard included) into a massive <a href="http://en.wikipedia.org/wiki/Distributed_computing">distributed computing</a> and <a href="http://en.wikipedia.org/wiki/Data_processing_system">data processing system</a>.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/acceleratingScience/acceleratingScience.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/acceleratingScience/acceleratingScience.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Acing Your Technical Interviews</title>
+    <desc><![CDATA[
+      <p>by Tony Ho '14</p>
+      <p>
+        Most coding interviews are like another coding competition. I would like to start by talking about resources like <a href="http://projecteuler.net/">Project Euler</a>, Poj, <a href="http://en.wikipedia.org/wiki/USACO">USACO</a>, <a href="http://codeforces.com/">Codeforces</a>, <a href="http://en.wikipedia.org/wiki/TopCoder">Topcoder</a>. Then I will move into the broad topics that everyone needs to know to answer simple questions. Finally, I will end with a hands-on period where we will try some problems and go over some problems that I have personally seen and find very interesting.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/acing_technical_interviews/acing_technical_interviews.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/acing_technical_interviews/acing_technical_interviews_src.zip">
+      <title>Source Code</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/acing_technical_interviews/acing_technical_interviews.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Android Application Development</title>
+    <desc><![CDATA[
+      <p>by Jordan Jozwiak '14</p>
+      <p>
+        Learn the basics of the <a href="http://code.google.com/android/">Android</a> Application Interface and developing <a href="http://en.wikipedia.org/wiki/Java_%28software_platform%29">Java</a> applications using <a href="http://en.wikipedia.org/wiki/Eclipse_%28software%29">Eclipse</a>.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Android_applicationDevelopment/Android_applicationDevelopment.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/Android_applicationDevelopment/Android_applicationDevelopment.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>appLab.Phone(Mango) Session One</title>
+    <desc><![CDATA[
+      <p>by Edwin Guarin of Microsoft</p>
+      <p> 
+        You will learn how to get started on that next great app for the Windows Phone.  Session One will attempt to cover: Introduction to Windows Phone 7.5 for Developers; Building Windows Phone 7.5 Apps with Visual Studio and Silverlight; Getting Started with Sample Code and other resource; Publishing and Monetizing your App in the Marketplace at no cost.  For this seminar, install the Windows Phone 7.5 SDK from http://create.msdn.com/en-us/home/getting_started. And create a free Dreamspark and AppHub account using the instructions from http://bit.ly/r2dqFr. This will give you the ability to publish your phone apps and monetize for free.
+      </p>
+    ]]></desc>
+    <bookmark href="">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="">
+      <title>Source Code</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/appLab_Phone_Mango/appLab_Phone_Mango.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Basics of Java</title>
+    <desc><![CDATA[
+      <p>by Rabeea Ahmed</p>
+      <p>
+        This seminar will discuss the basics of <a href="http://en.wikipedia.org/wiki/Java_%28software_platform%29">Java</a>, including methods, constructors, private vs. public variables, and some "equivalents" of <a href="http://en.wikipedia.org/wiki/C_%28programming_language%29">C</a> in Java. Java is, in some cases, easier to use than C (strings are native to Java, for example), so it might be useful to some students working on specific projects.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/basics_of_Java/basics_of_Java.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/basics_of_Java/basics_of_Java_src.pdf">
+      <title>Source Code</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/basics_of_Java/basics_of_Java.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Beyond Google Maps: Spatial is Special</title>
+    <desc><![CDATA[
+      <p>by Kirk Goldsberry</p>
+      <p>  
+        There's an ongoing <a href="http://en.wikipedia.org/wiki/Geospatial">geospatial</a> revolution happening right now. Unfortunately, despite the rapid rise of geospatial technologies, here at Harvard there are few if any courses that focus on <a href="http://en.wikipedia.org/wiki/Geographic_Information_Science">Geographic Information Science</a>.  I propose to lead a brief seminar that introduces the basics of GIScience and hopes to inspire students to generate exciting new spatially aware mobile applications that pick up where popular location-based services such as <a href="http://en.wikipedia.org/wiki/Google_maps">Google Maps</a> and <a href="http://en.wikipedia.org/wiki/Yelp,_Inc.">Yelp</a> leave off.  Since a large percentage of <a href="http://en.wikipedia.org/wiki/Application_software">"apps"</a> have a spatial component, this topic should be of interest to students looking to design new <a href="http://en.wikipedia.org/wiki/Mobile_computing">mobile computing</a> software. 
+      </p>
+    ]]></desc>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/beyond_GoogleMaps/beyond_GoogleMaps.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Building Applications in C#</title>
+    <desc><![CDATA[
+      <p>by Mike Teodorescu '11</p>
+      <p>
+        This seminar is a concentrated introduction to <a href="http://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29">C#</a> and will cover <a href="http://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented programming</a> in C#, <a href="http://en.wikipedia.org/wiki/Collection_%28computing%29">collections</a> in C#, <a href="http://en.wikipedia.org/wiki/Exception_handling">exception handling</a>, <a href="http://en.wikipedia.org/wiki/Regular_expression_examples">regular expressions</a>, <a href="http://en.wikipedia.org/wiki/XML">XML</a> <a href="http://en.wikipedia.org/wiki/Parsing">parsing</a>, <a href="http://en.wikipedia.org/wiki/C_file_input/output">file I/O</a>, and <a href="http://en.wikipedia.org/wiki/Debugging">debugging</a> in <a href="http://en.wikipedia.org/wiki/Microsoft_Visual_Studio">Visual Studio</a>. By the end of the course, students should have a solid grasp of this powerful language, which is packed with handy shortcuts and libraries.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/C_sharp/C_sharp.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/C_sharp/C_sharp_src.zip">
+      <title>Source Code</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/C_sharp/C_sharp.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>CSS for a Beautiful Website</title>
+    <desc><![CDATA[
+      <p>by Charles Bandes</p>
+      <p>
+        Proper use of <a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets">CSS</a> allows a tremendous degree of control over both the layout and visual design of a web page. Careful application of <a href="http://en.wikipedia.org/wiki/Style_sheet_%28web_development%29">style sheets</a> can be the difference between a basic page and a really polished site. 
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/CSS/CSS_src.zip">
+      <title>Source Code</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/CSS/CSS.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Develop for the BlackBerry... Like a Boss</title>
+    <desc><![CDATA[
+      <p>by Jason Hirschorn '14 and Marta Bralic '12</p>
+      <p> 
+        Learn how to develop applications for <a href="http://en.wikipedia.org/wiki/BlackBerry">BlackBerry</a> smartphone. Imagine integrating the <a href="http://en.wikipedia.org/wiki/BlackBerry_Messenger">BBM</a> platform into your application or coding the next <a href="http://en.wikipedia.org/wiki/Brick_Breaker">Brick Breaker</a>. The possibilities are endless!
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/develop_for_the_BlackBerry/develop_for_the_BlackBerry.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/develop_for_the_BlackBerry/develop_for_the_BlackBerry.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Educational Software</title>
+    <desc><![CDATA[
+      <p>by Katie Vale</p>
+      <p>
+        Interested in writing software to support teaching and learning? This session will discuss how to plan and execute an instructional project, including how to do requirements gathering, how to choose development platforms, and how to assess your project. The instructor has over 20 years' experience in designing and producing educational software.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/educationalSoftware/educationalSoftware.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/educationalSoftware/educationalSoftware.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Emacs</title>
+    <desc><![CDATA[
+      <p>by Matthew Chartier '12</p>
+      <p> 
+        <a href="http://en.wikipedia.org/wiki/Emacs">Emacs</a> is an alternative to <a href="http://en.wikipedia.org/wiki/Gedit">gedit</a> which empowers you to write code more efficiently. <a href="http://en.wikipedia.org/wiki/Extensible">Extensible</a> and highly customizable, Emacs allows users to streamline their editing process by modifying the editor itself to suit their needs. Topics covered will include <a href="http://en.wikipedia.org/wiki/Keyboard_shortcuts">keyboard shortcuts</a> to navigate text files quickly, using <a href="http://en.wikipedia.org/wiki/Data_buffer">buffers</a> to more effectively work with code spanning multiple files, and automating repetitive and tedious editing tasks on the fly.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Emacs/Emacs.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/Emacs/Emacs.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>From Innovation to Production: Making It Work is Just the Beginning</title>
+    <desc><![CDATA[
+      <p>by Dennis Ravenelle</p>
+      <p> 
+        Thomas Edison is credited with saying that invention is 1 percent inspiration and 99 percent perspiration. Getting an innovative solution from the lab (or the garage) into a real production environment can be an arduous process. But until something delivers real value in a real-world environment, it's just a novelty.  Here are some things to consider.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/innovation_to_production/innovation_to_production.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/innovation_to_production/innovation_to_production.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Getting a Job in the Tech Industry</title>
+    <desc><![CDATA[
+      <p>by Matthew Chartier '12 and Melissa Niu '13</p>
+      <p>
+        A seminar to discuss opportunities available to Harvard students in the tech industry and details about the interview process. The seminar will consist of a presentation and Q&amp;A session with a panel of students with prior experience interviewing for and working in positions in the tech industry.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/techIndustry/techIndustry.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/techIndustry/techIndustry.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Getting Started with Node.js</title>
+    <desc><![CDATA[
+      <p>by Beardsley Ruml</p>
+      <p>
+        An introduction to <a href="http://en.wikipedia.org/wiki/Node.js">Node.js</a>, a <a href="http://en.wikipedia.org/wiki/Server-side">server-side</a> <a href="http://en.wikipedia.org/wiki/Javascript">JavaScript</a> environment with <a href="http://en.wikipedia.org/wiki/Asynchronous_I/O">non-blocking IO</a>, and its most popular modules, such as <a href="http://expressjs.com/">Express</a> (built on Connect) and <a href="http://socket.io/">Socket-IO</a>.  The opportunities for real-time browser-based interactions will be demonstrated with a new <a href="http://en.wikipedia.org/wiki/Open_source">open-source</a> implementation of <a href="http://backchan.nl/">backchan.nl</a>. (See <a href="http://www.github.com/bruml2/backchannel/" class="external free" rel="nofollow">http://www.github.com/bruml2/backchannel/</a>)
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Node_js/Node_js.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/Node_js/Node_js.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Git Magic: Versioning Files Like a Boss</title>
+    <desc><![CDATA[
+      <p>by Tommy MacWilliam '13</p>
+      <p>
+        Tired of sudoku_why_is_it_3_am.c and sudoku_OMG_FINALLY_WORKS.c? Learn how software is developed in the real world with <a href="http://git-scm.com/">git</a>, a distributed revision control system. Track down bugs faster, manage file histories, and deploy code with efficiency and confidence.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Git_magic/Git_magic.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/Git_magic/Git_magic.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>iOS</title>
+    <desc><![CDATA[
+      <p>by Larry Ehrhardt</p>
+      <p>
+        Quick tour of <a href="http://en.wikipedia.org/wiki/IOS">iOS</a> and how to build a tab-based <a href="http://en.wikipedia.org/wiki/Application_software">app</a> with a view, table, and web view.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/iOS/iOS.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/iOS/iOS_src.zip">
+      <title>Source Code</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/iOS/iOS.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>jQuery: How to Make Your Website Shiny</title>
+    <desc><![CDATA[
+      <p>by Alex Hugon '11</p>
+      <p>
+        Stolen from <a href="http://en.wikipedia.org/wiki/JQuery">jQuery's</a> site: "jQuery is a fast and concise JavaScript Library that simplifies <a href="http://en.wikipedia.org/wiki/Html">HTML</a> document traversing, event handling, animating, and <a href="http://en.wikipedia.org/wiki/Ajax_%28programming%29">Ajax</a> interactions for rapid web development. jQuery is designed to change the way that you write <a href="http://en.wikipedia.org/wiki/Javascript">JavaScript</a>."
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/jQuery/jQuery_src.zip">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/jQuery/jQuery.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Ruby on Rails</title>
+    <desc><![CDATA[
+      <p>by Lexi Ross '13</p>
+      <p>
+        <a href="http://en.wikipedia.org/wiki/Ruby_on_Rails">Ruby on Rails</a> is an exciting new web development framework that lets you build awesome, dynamic websites in a short amount of time. Ever used <a href="http://en.wikipedia.org/wiki/Twitter">Twitter</a> or <a href="http://en.wikipedia.org/wiki/Groupon">Groupon</a>? Then you've used a Rails application. The Rails framework utilizes the <a href="http://www.ruby-lang.org/en/">Ruby programming language</a>, so we'll be learning basic Ruby syntax as well as the tools you need to get started building a Rails app. Bonus: Ruby is insanely fun to code in!
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Ruby_on_Rails/ROR.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="no">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Ruby_on_Rails/ROR_depot_src.zip">
+        <title>ROR depot</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Ruby_on_Rails/ROR_finance_skeleton_src.zip">
+        <title>ROR finance skeleton</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/Ruby_on_Rails/Ruby_on_Rails.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Search and Browse Superpowers: an Introduction to Solr</title>
+    <desc><![CDATA[
+      <p>by Ben Gaucherin</p>
+      <p>
+        Search and browse capabilities are core to most applications these days.  This seminar will review basic concepts behind search, including the more recent development known as <a href="http://en.wikipedia.org/wiki/Faceted_search">faceted search</a>.  We will then use <a href="http://en.wikipedia.org/wiki/Solr">Solr</a>, one of the most popular <a href="http://en.wikipedia.org/wiki/Open_source">open-source</a> faceted <a href="http://en.wikipedia.org/wiki/Search_engine">search engines</a>, to see how one can incorporate advanced search and browse capabilities into an application.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/intro_to_Solr/intro_to_Solr.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/intro_to_Solr/intro_to_Solr.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>User Experience (UX) Design</title>
+    <desc><![CDATA[
+      <p>by Julia Mitelman '13</p>
+      <p>
+        Ever stumbled upon a product that frustrated you because you couldn't figure out how to use it? Learn how to create products that are intuitive and convenient&#8212;no user manual necessary! A sneak peek of CS179, this seminar teaches you what you need to keep in mind when making products so you can create a great best user experience&#8212;because it's always the designer's fault!
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/user_UX_design/user_UX_design.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/user_UX_design/user_UX_design.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Web Security</title>
+    <desc><![CDATA[
+      <p>by Carl Jackson '13</p>
+      <p>
+        You know how to build websites, but do you know how to make them secure? We'll teach you about some of the most common Web Security vulnerabilities and how to fix them.
+      </p>
+    ]]></desc>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Web_security/Web_security.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cdn.cs50.net/2011/fall/seminars/Web_security/Web_security.zip">
+      <title>Source Code</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/seminars/Web_security/Web_security.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder></folder><folder><title>Papers</title><folder folded="no">
+    <title>Grading Qualitatively with Tablet PCs in CS 50</title>
+    <desc>Workshop on the Impact of Pen-Based Technology on Education. Blacksburg, Virginia. October
+      2009.</desc>
+    <bookmark href="http://www.cs.harvard.edu/%7Emalan/publications/wipte09-malan.pdf">
+      <title>PDF</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title> Moving CS50 into the Cloud</title>
+    <desc>15th Annual Conference of the Northeast Region of the Consortium for Computing Sciences in
+      Colleges. Hartford, Connecticut. April 2010.</desc>
+    <bookmark href="http://www.cs.harvard.edu/malan/publications/ccscne10-malan.pdf">
+      <title>PDF</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title> Reinventing CS 50</title>
+    <desc>41st Annual ACM Technical Symposium on Computer Science Education. Milwaukee, Wisconsin.
+      March 2010.</desc>
+    <bookmark href="http://www.cs.harvard.edu/malan/publications/fp310-malan.pdf">
+      <title>PDF</title>
+    </bookmark>
+  </folder><folder folded="no">
+    <title>Virtualizing Office Hours in CS 50</title>
+    <desc>14th Annual ACM Conference on Innovation and Technology in Computer Science Education.
+      Paris, France. July 2009.</desc>
+    <bookmark href="http://www.cs.harvard.edu/%7Emalan/publications/fp129-malan.pdf">
+      <title>PDF</title>
+    </bookmark>
+  </folder></folder></xbel>

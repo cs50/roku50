@@ -1,10 +1,9 @@
-<categories>
-
-	  <!-- banner_ad: optional element which displays an at the top level category screen -->
-	  <banner_ad sd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png" hd_img="http://rokudev.roku.com/rokudev/examples/videoplayer/images/missing.png"/>
-	  
-	<category title="2011" description="CS50, Fall of 2011" sd_img="http://cloud.cs50.net/~jessechen21/roku50/images/_sd_Roku50.png" hd_img="http://cloud.cs50.net/~jessechen21/roku50/images/_hd_Roku50.png">
-		<categoryLeaf title="Lectures" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/lectures_2011.xml"/>
-		<categoryLeaf title="Seminars" description="" feed="http://rokudev.roku.com/rokudev/examples/videoplayer/xml/globalissues.xml" />
-	</category>
+<categories>
+	<category title="2011" description="" sd_img="https://cloud.cs50.net/~jessechen21/roku50/images/home-focus-sd.png" hd_img="https://cloud.cs50.net/~jessechen21/roku50/images/home-focus-sd.png">
+		<categoryLeaf title="Lectures" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/lectures_2011.xml"/>
+		<categoryLeaf title="Seminars" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/seminars_2011.xml"/>
+		<categoryLeaf title="Walkthroughs" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/walkthroughs_2011.xml"/>
+		<categoryLeaf title="Sections" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/sections_2011.xml"/>
+		<categoryLeaf title="Quiz Reviews" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/quizreviews_2011.xml" />
+	</category>
  </categories>

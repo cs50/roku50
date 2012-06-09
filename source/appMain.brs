@@ -42,7 +42,7 @@ Sub initTheme()
 
     theme.OverhangOffsetHD_X = "125"
     theme.OverhangOffsetHD_Y = "35"
-    theme.OverhangSliceHD = "pkg:/images/banner-sd2.png"
+    theme.OverhangSliceHD = "pkg:/images/banner-hd.png"
     theme.OverhangLogoHD  = ""
 
     app.SetTheme(theme)
