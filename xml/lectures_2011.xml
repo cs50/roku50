@@ -1,7 +1,7 @@
 <feed>
 <resultLength>4</resultLength>
 <endIndex>4</endIndex>
-<item sdImg="" hdImg="">
+<item sdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0w.png" hdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0w.png">
 <title>Week 0, Wednesday</title>
 <contentId>10001</contentId>
 <contentType>Talk</contentType>
@@ -15,7 +15,7 @@
 <synopsis>Introduction. Bits. Binary. ASCII. Programming. Algorithms. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Threads. Events.</synopsis>
 <genres>Week 0, Wednesday</genres>
 </item>
-<item sdImg="" hdImg="">
+<item sdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0f.png" hdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0f.png">
 <title>Week 0, Friday</title>
 <contentId>10002</contentId>
 <contentType>Talk</contentType>

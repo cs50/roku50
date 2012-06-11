@@ -105,9 +105,11 @@ Function refreshShowDetail(screen As Object, showList As Object, showIndex as In
     screen.ClearButtons()
     if regread(show.contentid) <> invalid and regread(show.contentid).toint() >=30 then
     screen.AddButton(1, "Resume playing")    
-    screen.AddButton(2, "Play from beginning")    
+    screen.AddButton(2, "Play from beginning") 
+    screen.SetStaticRatingEnabled(false)       
     else
     screen.addbutton(2,"Play")
+    screen.SetStaticRatingEnabled(false)    
     end if
     screen.SetContent(show)
     screen.Show()

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xbel version="1.0">
+  <folder folded="yes">
+    <title>Week 1</title>
+    <info>
+        <metadata owner="">
+            Jason Hirshhorn
+        </metadata>
+    </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/1/section1.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/1/section1/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/1/section1.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/1/section1.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 2</title>
+    <info>
+        <metadata owner="">
+            Jason Hirshhorn
+        </metadata>
+    </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/2/section2.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/2/section2/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/2/section2.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/2/section2.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 3</title>
+    <info>
+        <metadata owner="">
+            Jason Hirshhorn
+        </metadata>
+    </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/3/section3.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/3/section3/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/3/section3.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/3/section3.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 4</title>
+      <info>
+          <metadata owner="">
+              Jason Hirshhorn
+          </metadata>
+      </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/4/section4.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/4/section4/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/4/section4.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/4/section4.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 5</title>
+      <info>
+          <metadata owner="">
+              Jason Hirshhorn
+          </metadata>
+      </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/5/section5.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <bookmark href="http://cs50.tv/2011/fall/sections/5/section5.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 6</title>
+      <info>
+          <metadata owner="">
+              Jason Hirshhorn
+          </metadata>
+      </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/6/section6.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/6/section6/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/6/section6.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/6/section6.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 7</title>
+      <info>
+          <metadata owner="">
+              Jason Hirshhorn
+          </metadata>
+      </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/7/section7.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/7/section7/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/7/section7.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/7/section7.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 8</title>
+      <info>
+          <metadata owner="">
+              Jason Hirshhorn
+          </metadata>
+      </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/8/section8.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/8/section8/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/8/section8.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/8/section8.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 9</title>
+      <info>
+          <metadata owner="">
+              Jason Hirshhorn
+          </metadata>
+      </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/9/section9.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/9/section9/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/9/section9.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/9/section9.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+  <folder folded="yes">
+    <title>Week 10</title>
+      <info>
+          <metadata owner="">
+              Jason Hirshhorn
+          </metadata>
+      </info>
+    <bookmark href="http://cdn.cs50.net/2011/fall/sections/10/section10.pdf">
+      <title>Slides</title>
+    </bookmark>
+    <folder folded="yes">
+      <title>Source Code</title>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/10/section10/">
+        <title>index</title>
+      </bookmark>
+      <bookmark href="http://cdn.cs50.net/2011/fall/sections/10/section10.zip">
+        <title>ZIP</title>
+      </bookmark>
+    </folder>
+    <bookmark href="http://cs50.tv/2011/fall/sections/10/section10.mp4">
+      <title>Video</title>
+    </bookmark>
+  </folder>
+</xbel>

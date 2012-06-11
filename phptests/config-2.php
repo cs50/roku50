@@ -6,6 +6,7 @@
     );
 
     $CDN = "http://cs50.tv/2011/fall/";
+    $CDN2 = "http://cdn.cs50.net/2011/fall/";
 
     $COPYRIGHT = "2011";
 
@@ -33,8 +34,7 @@
       "Problem Sets" => "psets",
       "Quizzes" => "quizzes",
       "Seminars" => "seminars",
-      "Papers" => "papers",
-      "2011" => "2011"
+      "Papers" => "papers"
      ),
      "r" => array(
        "About" => "about",

@@ -59,10 +59,11 @@ Function init_show_feed_item() As Object
     o.Synopsis         = ""
     o.Genre            = ""
     o.Runtime          = ""
+    o.SubtitleUrl      = ""
     o.StreamQualities  = CreateObject("roArray", 5, true) 
     o.StreamBitrates   = CreateObject("roArray", 5, true)
     o.StreamUrls       = CreateObject("roArray", 5, true)
-
+    
     return o
 End Function
 
@@ -139,7 +140,9 @@ Function parse_show_feed(xml As Object, feed As Object) As Void
         item.Runtime          = validstr(curShow.runtime.GetText())
         item.HDBifUrl         = validstr(curShow.hdBifUrl.GetText())
         item.SDBifUrl         = validstr(curShow.sdBifUrl.GetText())
-        item.StreamFormat = validstr(curShow.streamFormat.GetText())
+        item.StreamFormat     = validstr(curShow.streamFormat.GetText())
+        item.SubtitleUrl      = validstr(curShow.subtitleUrl.GetText())
+        
         if item.StreamFormat = "" then  'set default streamFormat to mp4 if doesn't exist in xml
             item.StreamFormat = "mp4"
         endif
@@ -149,7 +152,6 @@ Function parse_show_feed(xml As Object, feed As Object) As Void
         item.ShortDescriptionLine2 = item.Description
         item.HDPosterUrl           = item.hdImg
         item.SDPosterUrl           = item.sdImg
-
         item.Length = strtoi(item.Runtime)
         item.Categories = CreateObject("roArray", 5, true)
         item.Categories.Push(item.Genre)
