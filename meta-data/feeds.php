@@ -140,8 +140,7 @@
                     $credits = $k->xpath("ancestor::folder/info/metadata");
                     // seminars have credits already in the description
                     if ($id != "seminars") {
-                        // apparently chr(10) is the newline character in BrightScript
-                        echo $credits[0]."chr(10)";
+                        echo $credits[0];
                     }
                     // check if this video has a description
                     if ($video_description != "") {

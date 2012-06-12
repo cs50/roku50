@@ -1,376 +1,55 @@
 <feed>
-<resultLength>4</resultLength>
-<endIndex>4</endIndex>
-<item sdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0w.png" hdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0w.png">
-<title>Week 0, Wednesday</title>
-<contentId>10001</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/0/week0w.mp4</streamUrl>
-</media>
-<synopsis>Introduction. Bits. Binary. ASCII. Programming. Algorithms. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Threads. Events.</synopsis>
-<genres>Week 0, Wednesday</genres>
-</item>
-<item sdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0f.png" hdImg="https://cloud.cs50.net/~jessechen21/roku50/artwork/week0f.png">
-<title>Week 0, Friday</title>
-<contentId>10002</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/0/week0f.mp4</streamUrl>
-</media>
-<synopsis>
-Introduction. Bits. Binary. ASCII. Programming. Algorithms. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Threads. Events.
-</synopsis>
-<genres>Week 0, Friday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 1, Wednesday</title>
-<contentId>10003</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/1/week1w.mp4</streamUrl>
-</media>
-<synopsis>
-C. Source code. Compilers. Object code. GCC. Functions. Comments. Standard output. Arithmetic operators. Precedence. Local variables. Types. Casting. Standard input. Libraries. Boolean expressions, continued. Conditions, continued. Loops, continued.
-</synopsis>
-<genres>Week 1, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 1, Friday</title>
-<contentId>10004</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/1/week1f.mp4</streamUrl>
-</media>
-<synopsis>
-C. Source code. Compilers. Object code. GCC. Functions. Comments. Standard output. Arithmetic operators. Precedence. Local variables. Types. Casting. Standard input. Libraries. Boolean expressions, continued. Conditions, continued. Loops, continued.
-</synopsis>
-<genres>Week 1, Friday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 2, Monday</title>
-<contentId>10005</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/2/week2m.mp4</streamUrl>
-</media>
-<synopsis>
-Functions, continued. Global variables. Parameters. Return values. Stack. Frames. Scope. Arrays. Strings. Command-line arguments. Cryptography.
-</synopsis>
-<genres>Week 2, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 2, Wednesday</title>
-<contentId>10006</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/2/week2w.mp4</streamUrl>
-</media>
-<synopsis>
-Functions, continued. Global variables. Parameters. Return values. Stack. Frames. Scope. Arrays. Strings. Command-line arguments. Cryptography.
-</synopsis>
-<genres>Week 2, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 3, Monday</title>
-<contentId>10007</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/3/week3m.mp4</streamUrl>
-</media>
-<synopsis>
-Linear search. Binary search. Asymptotic notation. Recursion. Bubble sort. Selection sort. Debugging.
-</synopsis>
-<genres>Week 3, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 3, Wednesday</title>
-<contentId>10008</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/3/week3w.mp4</streamUrl>
-</media>
-<synopsis>
-Linear search. Binary search. Asymptotic notation. Recursion. Bubble sort. Selection sort. Debugging.
-</synopsis>
-<genres>Week 3, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 4, Monday</title>
-<contentId>10009</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/4/week4m.mp4</streamUrl>
-</media>
-<synopsis>
-Merge sort. Structures. Dynamic memory allocation. Pointers. Debugging, continued.
-</synopsis>
-<genres>Week 4, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 4, Wednesday</title>
-<contentId>10010</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/4/week4w.mp4</streamUrl>
-</media>
-<synopsis>
-Merge sort. Structures. Dynamic memory allocation. Pointers. Debugging, continued.
-</synopsis>
-<genres>Week 4, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 5, Monday</title>
-<contentId>10011</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/5/week5m.mp4</streamUrl>
-</media>
-<synopsis>
-CS50 Library. Heap. Pointers, continued. Forensics.
-</synopsis>
-<genres>Week 5, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 5, Wednesday</title>
-<contentId>10012</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/5/week5w.mp4</streamUrl>
-</media>
-<synopsis>
-CS50 Library. Heap. Pointers, continued. Forensics.
-</synopsis>
-<genres>Week 5, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 7, Monday</title>
-<contentId>10013</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/7/week7m.mp4</streamUrl>
-</media>
-<synopsis>File I/O. Linked lists. Stacks. Queues. Valgrind. Hash tables. Trees. Binary search trees. Tries.</synopsis>
-<genres>Week 7, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 7, Wednesday</title>
-<contentId>10014</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/7/week7w.mp4</streamUrl>
-</media>
-<synopsis>File I/O. Linked lists. Stacks. Queues. Valgrind. Hash tables. Trees. Binary search trees. Tries.</synopsis>
-<genres>Week 7, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 8, Monday</title>
-<contentId>10015</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/8/week8m.mp4</streamUrl>
-</media>
-<synopsis>HTTP. HTML. CSS. PHP.</synopsis>
-<genres>Week 8, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 8, Wednesday</title>
-<contentId>10016</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/8/week8w.mp4</streamUrl>
-</media>
-<synopsis>HTTP. HTML. CSS. PHP.</synopsis>
-<genres>Week 8, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 9, Monday</title>
-<contentId>10017</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/9/week9m.mp4</streamUrl>
-</media>
-<synopsis>PHP, Continued. SQL.</synopsis>
-<genres>Week 9, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 9, Wednesday</title>
-<contentId>10018</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/9/week9w.mp4</streamUrl>
-</media>
-<synopsis>PHP, Continued. SQL.</synopsis>
-<genres>Week 9, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 10, Monday</title>
-<contentId>10019</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/10/week10m.mp4</streamUrl>
-</media>
-<synopsis>JavaScript. Ajax. APIs.</synopsis>
-<genres>Week 10, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 10, Wednesday</title>
-<contentId>10020</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/10/week10w.mp4</streamUrl>
-</media>
-<synopsis>JavaScript. Ajax. APIs.</synopsis>
-<genres>Week 10, Wednesday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 11, Videos</title>
-<contentId>10021</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/cs20.mp4</streamUrl>
-</media>
-<synopsis>Life after 50.</synopsis>
-<genres>Week 11, Videos</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 11, Videos</title>
-<contentId>10022</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/cs171.mp4</streamUrl>
-</media>
-<synopsis>Life after 50.</synopsis>
-<genres>Week 11, Videos</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 11, Videos</title>
-<contentId>10023</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/cs179.mp4</streamUrl>
-</media>
-<synopsis>Life after 50.</synopsis>
-<genres>Week 11, Videos</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 11, Monday</title>
-<contentId>10024</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/week11m.mp4</streamUrl>
-</media>
-<synopsis>Life after 50.</synopsis>
-<genres>Week 11, Monday</genres>
-</item>
-<item sdImg="" hdImg="">
-<title>Week 12, Monday</title>
-<contentId>10025</contentId>
-<contentType>Talk</contentType>
-<contentQuality>SD</contentQuality>
-<media>
-<streamFormat>mp4</streamFormat>
-<streamQuality>SD</streamQuality>
-<streamBitrate>2000</streamBitrate>
-<streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/12/week12m.mp4</streamUrl>
-</media>
-<synopsis>Exciting conclusion.</synopsis>
-<genres>Week 12, Monday</genres>
-</item>
-</feed>
+    <resultLength>4</resultLength>
+    <endIndex>4</endIndex>
+
+    <item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week0w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week0w.png"><title>Week 0</title><contentId>10001</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/0/week0w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/0/week0w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Introduction.  Bits.  Binary.  ASCII.  Programming.  Algorithms.  Scratch.  Statements.  Boolean expressions.  Conditions.  Loops.  Variables.  Threads.  Events.</synopsis><genres>Week 0</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week0f.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week0f.png"><title>Week 0, continued</title><contentId>10002</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/0/week0f.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/0/week0f.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Introduction.  Bits.  Binary.  ASCII.  Programming.  Algorithms.  Scratch.  Statements.  Boolean expressions.  Conditions.  Loops.  Variables.  Threads.  Events.</synopsis><genres>Week 0</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week1w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week1w.png"><title>Week 1</title><contentId>10003</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/1/week1w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/1/week1w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        C.  Source code.  Compilers.  Object code.  GCC.  Functions.  Comments.  Standard output.  Arithmetic operators.  Precedence.  Local variables.  Types.  Casting.  Standard input.  Libraries.  Boolean expressions, continued.  Conditions, continued.  Loops, continued.</synopsis><genres>Week 1</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week1f.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week1f.png"><title>Week 1, continued</title><contentId>10004</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/1/week1f.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/1/week1f.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        C.  Source code.  Compilers.  Object code.  GCC.  Functions.  Comments.  Standard output.  Arithmetic operators.  Precedence.  Local variables.  Types.  Casting.  Standard input.  Libraries.  Boolean expressions, continued.  Conditions, continued.  Loops, continued.</synopsis><genres>Week 1</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week2m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week2m.png"><title>Week 2</title><contentId>10005</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/2/week2m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/2/week2m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Functions, continued.  Global variables.  Parameters.  Return values.  Stack.  Frames.  Scope.  Arrays.  Strings.  Command-line arguments.  Cryptography.</synopsis><genres>Week 2</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week2w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week2w.png"><title>Week 2, continued</title><contentId>10006</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/2/week2w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/2/week2w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Functions, continued.  Global variables.  Parameters.  Return values.  Stack.  Frames.  Scope.  Arrays.  Strings.  Command-line arguments.  Cryptography.</synopsis><genres>Week 2</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week3m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week3m.png"><title>Week 3</title><contentId>10007</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/3/week3m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/3/week3m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Linear search.  Binary search.  Asymptotic notation.  Recursion.  Bubble sort.  Selection sort.  Debugging.</synopsis><genres>Week 3</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week3w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week3w.png"><title>Week 3, continued</title><contentId>10008</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/3/week3w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/3/week3w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Linear search.  Binary search.  Asymptotic notation.  Recursion.  Bubble sort.  Selection sort.  Debugging.</synopsis><genres>Week 3</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week4m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week4m.png"><title>Week 4</title><contentId>10009</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/4/week4m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/4/week4m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Merge sort.  Structures.  Dynamic memory allocation.  Pointers.  Debugging, continued.</synopsis><genres>Week 4</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week4w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week4w.png"><title>Week 4, continued</title><contentId>10010</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/4/week4w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/4/week4w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Merge sort.  Structures.  Dynamic memory allocation.  Pointers.  Debugging, continued.</synopsis><genres>Week 4</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week5m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week5m.png"><title>Week 5</title><contentId>10011</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/5/week5m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/5/week5m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        CS50 Library.  Heap.  Pointers, continued.  Forensics.</synopsis><genres>Week 5</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week5w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week5w.png"><title>Week 5, continued</title><contentId>10012</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/5/week5w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/5/week5w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        CS50 Library.  Heap.  Pointers, continued.  Forensics.</synopsis><genres>Week 5</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week7m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week7m.png"><title>Week 7</title><contentId>10013</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/7/week7m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/7/week7m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        File I/O.  Linked lists.  Stacks.  Queues.  Valgrind.  Hash tables.  Trees.  Binary search trees.  Tries.</synopsis><genres>Week 7</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week7w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week7w.png"><title>Week 7, continued</title><contentId>10014</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/7/week7w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/7/week7w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        File I/O.  Linked lists.  Stacks.  Queues.  Valgrind.  Hash tables.  Trees.  Binary search trees.  Tries.</synopsis><genres>Week 7</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week8m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week8m.png"><title>Week 8</title><contentId>10015</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/8/week8m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/8/week8m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        HTTP.  HTML.  CSS.  PHP.</synopsis><genres>Week 8</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week8w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week8w.png"><title>Week 8, continued</title><contentId>10016</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/8/week8w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/8/week8w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        HTTP.  HTML.  CSS.  PHP.</synopsis><genres>Week 8</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week9m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week9m.png"><title>Week 9</title><contentId>10017</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/9/week9m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/9/week9m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        PHP, Continued.  SQL.</synopsis><genres>Week 9</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week9w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week9w.png"><title>Week 9, continued</title><contentId>10018</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/9/week9w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/9/week9w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        PHP, Continued.  SQL.</synopsis><genres>Week 9</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week10m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week10m.png"><title>Week 10</title><contentId>10019</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/10/week10m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/10/week10m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        JavaScript.  Ajax.  APIs.</synopsis><genres>Week 10</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week10w.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week10w.png"><title>Week 10, continued</title><contentId>10020</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/10/week10w.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/10/week10w.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        JavaScript.  Ajax.  APIs.</synopsis><genres>Week 10</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/cs20.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/cs20.png"><title>Week 11</title><contentId>10021</contentId><subtitleUrl></subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/cs20.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Life after 50.</synopsis><genres>Week 11</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/cs171.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/cs171.png"><title>Week 11, continued</title><contentId>10022</contentId><subtitleUrl></subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/cs171.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Life after 50.</synopsis><genres>Week 11</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/cs179.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/cs179.png"><title>Week 11, continued</title><contentId>10023</contentId><subtitleUrl></subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/cs179.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Life after 50.</synopsis><genres>Week 11</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week11m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week11m.png"><title>Week 11, continued</title><contentId>10024</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/11/week11m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/11/week11m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Life after 50.</synopsis><genres>Week 11</genres><runtime>00:00</runtime></item><item sdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week12m.png" hdImg="http://cloud.cs50.net/~jessechen21/roku50/artwork/week12m.png"><title>Week 12</title><contentId>10025</contentId><subtitleUrl>http://cdn.cs50.net/2011/fall/lectures/12/week12m.srt</subtitleUrl><contentType>Talk</contentType><contentQuality>SD</contentQuality><media><streamFormat>mp4</streamFormat><streamQuality>HD</streamQuality><streamBitrate>2000</streamBitrate><streamUrl>http://harvard.vo.llnwd.net/o18/cs50/2011/fall/lectures/12/week12m.mp4</streamUrl></media><synopsis>
+            David J. Malan
+        Exciting conclusion.</synopsis><genres>Week 12</genres><runtime>00:00</runtime></item></feed>

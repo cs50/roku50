@@ -1,6 +1,6 @@
 <categories>
 	<category title="2011" description="" sd_img="https://cloud.cs50.net/~jessechen21/roku50/images/home-focus-sd.png" hd_img="https://cloud.cs50.net/~jessechen21/roku50/images/home-focus-sd.png">
-		<categoryLeaf title="Lectures" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/phptests/2011.xml"/>
+		<categoryLeaf title="Lectures" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/lectures_2011.xml"/>
 		<categoryLeaf title="Sections" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/sections_2011.xml"/>
 		<categoryLeaf title="Walkthroughs" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/walkthroughs_2011.xml"/>
 		<categoryLeaf title="Reviews" description="" feed="http://cloud.cs50.net/~jessechen21/roku50/xml/reviews_2011.xml"/>
