@@ -1,7 +1,7 @@
 ROKU50 Instructions and Walkthrough
 http://www.roku.com/
 
-First and foremost, please go to the Roku website and sign up as a developer. Next, download the Roku SDK if you would like to peruse their documentation and sample code. This guide is mainly for CS50 video.
+First and foremost, please go to the Roku website and sign up as a developer (https://owner.roku.com/Account/Create). You should see "Developer Home"; here you have access to channels, forum, and most importantly the Roku SDK. Download the SDK, especially if you would like to peruse their documentation and sample code. This guide is mainly for CS50 video, so we are most interested in the videoplayer folder of their sample code. Move this folder from the SDK to your working folder.
 
 Contents:
 1. Intro
@@ -30,21 +30,33 @@ The roku50 folder contains the artwork, images, meta-data, source, and xml folde
 
 3. XML/Video Guide
 
-Roku is very picky about how it handles videos. In this guide, the videos all live on CS50's limelight server, and the xml happens to live on my cloud account (cloud.cs50.net/~jessechen21/roku50). 
+Roku is very picky about how it handles videos. In this guide, the videos all live on CS50's limelight server, and the xml lives at CS50 (http://cs50.tv/?output=roku, other can be accessed here as well). 
 
 The the main xml file is called categories.xml. The overall structure is as follows; a big overarching category (in this case the year number) contains several category leafs. Each category leaf is interpreted as the sections of the navbar once you pick a year. Then the videos that appear underneath come directly from the feed attribute. 
 
 In these nodes, one can alter the titles and descriptions relatively freely. The feed however must adhere to a particular xml format. The links in the category leafs must be xml files living on some server (in this example). 
 
-Let's take a look at lectures_2011.xml. The format must be as follows (you can add attributes, as mentioned later);
+Let's take a look at http://cs50.tv/2011/fall/?output=roku&leaf=lectures. The format must be as follows (you can add attributes, as mentioned later);
 
 <feed>
 	<resultLength>#</resultLength>
 	<endIndex>#</endIndex>
 	<item>
+		<title>MyTitle</title>
+		<contentId>#</contentId>
+		...
+		...
+		...etc.
 	</item>
 	<item>
+		...
 	</item>
+	<item>
+		...
+	</item>
+	...
+	...
+	...etc.
 </feed>
 
 Where each item is a different video. Each <item> must have the specific tags as interpreted in 
@@ -54,7 +66,7 @@ The two main files that handle the video are categoryFeed.brs and showFeed.brs. 
 
 ShowFeed.brs on the other hand deals mainly with the xml that you linked to with the "feed" attribute back in categories.xml (attribute of a categoryLeaf). We'll come back to this later for adding attributes of your choice to the video output, but for now let's take a closer look at the feed xml. 
 
-The sample ones provided are all in the xml folder. In the item tag one can change the preview photo links. Then comes title, contentId, subtitleUrl, contentType, contentQuality, streamFormat, streamQuality, streamBitrate, streamUrl, synopsis, genre, and runtime. Change these as needed. The streamUrl is the link to the video itself that lives on your server and likely the most important part. 
+Examples of potential feed xml are provided in the xml folder in videoplayer, and also in the CS50 categories.xml. In the item tag one can change the preview photo links. Then comes title, contentId, subtitleUrl, contentType, contentQuality, streamFormat, streamQuality, streamBitrate, streamUrl, synopsis, genre, and runtime (if you are looking at the SDK example, subtitleUrl is not included). Change these as needed. The streamUrl is the link to the video itself that lives on your server and likely the most important part. 
 
 4. Subtitles/Meta-Data Tags
 
