@@ -60,6 +60,7 @@ Function init_show_feed_item() As Object
     o.Genre            = ""
     o.Runtime          = ""
     o.SubtitleUrl      = ""
+    o.Subtitle         = ""
     o.StreamQualities  = CreateObject("roArray", 5, true) 
     o.StreamBitrates   = CreateObject("roArray", 5, true)
     o.StreamUrls       = CreateObject("roArray", 5, true)
@@ -142,6 +143,7 @@ Function parse_show_feed(xml As Object, feed As Object) As Void
         item.SDBifUrl         = validstr(curShow.sdBifUrl.GetText())
         item.StreamFormat     = validstr(curShow.streamFormat.GetText())
         item.SubtitleUrl      = validstr(curShow.subtitleUrl.GetText())
+        item.Subtitle         = validstr(curShow.subtitle.GetText())
         
         if item.StreamFormat = "" then  'set default streamFormat to mp4 if doesn't exist in xml
             item.StreamFormat = "mp4"

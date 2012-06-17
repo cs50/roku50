@@ -38,7 +38,7 @@ Function showHomeScreen(screen) As Integer
 
     initCategoryList()
     screen.SetContentList(m.Categories.Kids)
-    screen.SetFocusedListItem(3)
+    screen.SetFocusedListItem(0)
     screen.Show()
 
     while true
