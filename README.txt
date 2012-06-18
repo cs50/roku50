@@ -1,7 +1,9 @@
 ROKU50 Instructions and Walkthrough
 http://www.roku.com/
 
-First and foremost, please go to the Roku website and sign up as a developer (https://owner.roku.com/Account/Create). You should see "Developer Home"; here you have access to channels, forum, and most importantly the Roku SDK. Download the SDK, especially if you would like to peruse their documentation and sample code. This guide is mainly for CS50 video, so we are most interested in the videoplayer folder of their sample code. Move this folder from the SDK to your working folder.
+First and foremost, please go to the Roku website and sign up as a developer (https://owner.roku.com/Account/Create). KEEP YOUR DEVELOPER ID AND PASSWORD. THIS IS IMPORTANT.
+
+You should see "Developer Home"; here you have access to channels, forum, and most importantly the Roku SDK. Download the SDK, especially if you would like to peruse their documentation and sample code. This guide is mainly for CS50 video, so we are most interested in the videoplayer folder of their sample code. Move this folder from the SDK to your working folder.
 
 Contents:
 1. Intro
@@ -9,7 +11,7 @@ Contents:
 3. XML/Video Guide
 4. Subtitles/Meta-Data Tags 
 5. Details/Pictures
-6. Installing
+6. Installing and Publishing
 7. Conclusions
 
 1. Intro
@@ -18,21 +20,21 @@ Roku streams channels to the TV, and this sample code makes a video player to st
 
 2. List of Directories (skippable)
 
-The roku50 folder contains the artwork, images, meta-data, source, and xml folders (artwork and images are redundant and can be the same folder - you just have to do the proper linking in the xml...but more on that later). There are also 3 other files; this README, the manifest file, and the Makefile. 
+The roku50 folder contains the artwork, gallery, php, pkg, and posters folders. Also of note in pkg is the Makefile, manifest file, and the source and images folders. 
 
 	Artwork/images contains any pictures/banner-related content you would like to have, including the video icon photos and the main app icon. 
 
-	Meta-data contains php parsers and xml input files from the CDN. 
+	Php contains php parsers. 
 
 	Source contains all the brightScript files that compose the bulk of setting up the app itself. 
 
-	The Makefile and the manifest file are for configuration. The ReadMe, in my opinion, is the most important file (jk). 
+	The Makefile and the manifest file are for some basic configuration tasks. 
 
 3. XML/Video Guide
 
-Roku is very picky about how it handles videos. In this guide, the videos all live on CS50's limelight server, and the xml lives at CS50 (http://cs50.tv/?output=roku, other can be accessed here as well). 
+Roku is very picky about how it handles videos. In this guide, the videos all live on CS50's limelight server, and the xml lives at CS50 (http://cs50.tv/?output=roku, other xml can be accessed here as well). 
 
-The the main xml file is called categories.xml. The overall structure is as follows; a big overarching category (in this case the year number) contains several category leafs. Each category leaf is interpreted as the sections of the navbar once you pick a year. Then the videos that appear underneath come directly from the feed attribute. 
+The the main xml file is contains the categories node. The overall structure is as follows; a big overarching category (in this case the year number) contains several category leafs. Each category leaf is interpreted as the sections of the navbar once you pick a year. Then the videos that appear underneath come directly from the feed attribute. 
 
 In these nodes, one can alter the titles and descriptions relatively freely. The feed however must adhere to a particular xml format. The links in the category leafs must be xml files living on some server (in this example). 
 
@@ -82,9 +84,9 @@ The big banner at the top after you enter the app can be set in appMain.brs. The
 
 Please note that the cover photo/banner have requirements for specific dimensions (see the documentation).
 
-Previews for the photos are simply images living on your server that you linked to in the video xml files.The required dimensions aren't specified, but dimensions that I've found to work are 254x191 png image files. 
+Previews for the photos are simply images living on your server that you linked to in the video xml files.The required dimensions aren't specified, but dimensions that I've found to work are 254x191 png image files.
 
-6. Installing
+6. Installing and Publishing
 
 Make sure the format is the same as my folder. The Makefile should be similar (in here, you can change your AppName that is presumably used elsewhere. not important), and reusable. 
 
@@ -94,9 +96,13 @@ Then in the command line navigate to your folder containing the Makefile, and ex
 
 After a duration the app should appear. 
 
+After confirming that you app is finalized, go to your web browser and type in the ROKU_DEV_TARGET (your IP address for the roku). A grey screen should appear. This is the second method of uploading btw. In the top left hand corner you will see three options, the third of which should be Packaging. Follow their instructions and you should end up with a downloadable pkg file. This is what you need to upload on the roku developer's site. 
+
+Go to the developer's site, click "Manage Channels" and follow the instructions from there. 
+
 7. Conclusions
 
-You can use my code to toy around with the Roku. It's very finnicky. It has been known to bite. 
+And that's how to publish a channel on roku. It's very finnicky. It has been known to bite. 
 
 Good luck!
 
