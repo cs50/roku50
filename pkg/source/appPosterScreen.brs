@@ -20,7 +20,14 @@ Function preShowPosterScreen(breadA=invalid, breadB=invalid) As Object
         screen.SetBreadcrumbText(breadA, breadB)
     end if
 
-    screen.SetListStyle("arced-landscape")
+    'set thumbnails to be in 16x9 format if we're in year 2012
+    if breadA = "2012" then
+        screen.SetListStyle("flat-episodic-16x9")
+    else if breadB = "2012" then
+        screen.SetListStyle("flat-episodic-16x9")
+    else
+        screen.SetListStyle("arced-landscape")
+    end if
     return screen
 
 End Function
