@@ -12,6 +12,13 @@ Function preShowDetailScreen(breadA=invalid, breadB=invalid) As Object
     if breadA<>invalid and breadB<>invalid then
         screen.SetBreadcrumbText(breadA, breadB)
     end if
+    
+    'set thumbnails to be in 16x9 format if we're in year 2012 or higher
+    if breadA.ToInt() > 2011 then
+        screen.SetPosterStyle("rounded-rect-16x9-generic")
+    else
+        screen.SetPosterStyle("rounded-square-generic")
+    end if
 
     return screen
 End Function
