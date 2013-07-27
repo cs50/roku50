@@ -22,7 +22,7 @@ Function preShowPosterScreen(breadA=invalid, breadB=invalid) As Object
 
     'set thumbnails to be in 16x9 format if we're in year 2012 or higher
     if breadA.ToInt() > 2011 then
-        screen.SetListStyle("flat-episodic-16x9")
+        screen.SetListStyle("arced-16x9")
     else
         screen.SetListStyle("arced-landscape")
     end if
