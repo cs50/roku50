@@ -7,3 +7,5 @@ mm_icon_focus_hd=pkg:/images/home-hd.png
 mm_icon_side_hd=pkg:/images/home-hd.png
 mm_icon_focus_sd=pkg:/images/home-focus-sd.png
 mm_icon_side_sd=pkg:/images/home-focus-sd.png
+splash_screen_hd=pkg:/images/splash-hd.png
+splash_screen_sd=pkg:/images/splash-sd.png

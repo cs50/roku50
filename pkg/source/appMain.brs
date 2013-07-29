@@ -35,14 +35,20 @@ Sub initTheme()
     app = CreateObject("roAppManager")
     theme = CreateObject("roAssociativeArray")
 
-    theme.OverhangOffsetSD_X = "72"
+    theme.OverhangOffsetSD_X = "0"
     theme.OverhangOffsetSD_Y = "31"
-    theme.OverhangSliceSD = "pkg:/images/banner-sd2.png"
+    theme.OverhangPrimaryLogoOffsetHD_X = "0"
+    theme.OverhangPrimaryLogoOffsetHD_Y = "16"
+    'theme.OverhangSliceSD = "pkg:/images/banner-sd.png"
+    theme.OverhangPrimaryLogoSD = "pkg:/images/banner-sd.png"
     theme.OverhangLogoSD  = ""
 
-    theme.OverhangOffsetHD_X = "125"
-    theme.OverhangOffsetHD_Y = "35"
-    theme.OverhangSliceHD = "pkg:/images/banner-hd.png"
+    theme.OverhangOffsetHD_X = "0"
+    theme.OverhangOffsetHD_Y = "33"
+    theme.OverhangPrimaryLogoOffsetSD_X = "0"
+    theme.OverhangPrimaryLogoOffsetSD_Y = "12"
+    'theme.OverhangSliceHD = "pkg:/images/banner-hd.png"
+    theme.OverhangPrimaryLogoHD = "pkg:/images/banner-hd.png"
     theme.OverhangLogoHD  = ""
     
     theme.BackgroundColor = "#000003"
