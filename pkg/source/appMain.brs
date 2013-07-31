@@ -37,17 +37,17 @@ Sub initTheme()
 
     theme.OverhangOffsetSD_X = "0"
     theme.OverhangOffsetSD_Y = "31"
-    theme.OverhangPrimaryLogoOffsetHD_X = "0"
-    theme.OverhangPrimaryLogoOffsetHD_Y = "16"
-    'theme.OverhangSliceSD = "pkg:/images/banner-sd.png"
+    theme.OverhangPrimaryLogoOffsetSD_X = "0"
+    theme.OverhangPrimaryLogoOffsetSD_Y = "8"
+    theme.OverhangSliceSD = "pkg:/images/overhang-sd.png"
     theme.OverhangPrimaryLogoSD = "pkg:/images/banner-sd.png"
     theme.OverhangLogoSD  = ""
 
     theme.OverhangOffsetHD_X = "0"
     theme.OverhangOffsetHD_Y = "33"
-    theme.OverhangPrimaryLogoOffsetSD_X = "0"
-    theme.OverhangPrimaryLogoOffsetSD_Y = "12"
-    'theme.OverhangSliceHD = "pkg:/images/banner-hd.png"
+    theme.OverhangPrimaryLogoOffsetHD_X = "0"
+    theme.OverhangPrimaryLogoOffsetHD_Y = "11"
+    theme.OverhangSliceHD = "pkg:/images/overhang-hd.png"
     theme.OverhangPrimaryLogoHD = "pkg:/images/banner-hd.png"
     theme.OverhangLogoHD  = ""
     
