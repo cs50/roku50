@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed>
+  <resultLength>13</resultLength>
+  <endIndex>13</endIndex>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/BeyondGit_ForgingSDLC/BeyondGit_ForgingSDLC.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/BeyondGit_ForgingSDLC/BeyondGit_ForgingSDLC.png'>
+    <title>Beyond Git: Forging SDLC</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/BeyondGit_ForgingSDLC/BeyondGit_ForgingSDLC.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/BeyondGit_ForgingSDLC/BeyondGit_ForgingSDLC.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Esmond Kane. Given the forthcoming launch of the forge.gov SDLC portal, building on the already deployed forge.mil, collaborative development lifecycle portals are officially mainstream. The presenter will speak to the goals, quirks, maturation and future of a 6-year software development hosted portal for academia et al. in Harvard. The Harvard ABCD Forge is available at forge.abcd.harvard.edu.</synopsis>
+    <runtime>2803</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/BlackBerryApplicationDevelopment/BlackBerryApplicationDevelopment.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/BlackBerryApplicationDevelopment/BlackBerryApplicationDevelopment.png'>
+    <title>BlackBerry Application Development</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/BlackBerryApplicationDevelopment/BlackBerryApplicationDevelopment.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/BlackBerryApplicationDevelopment/BlackBerryApplicationDevelopment.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Tian Feng '11. Learn the basics of the BlackBerry Application Interface and developing Java applications.</synopsis>
+    <runtime>1776</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/CrashCourseInJava/CrashCourseInJava.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/CrashCourseInJava/CrashCourseInJava.png'>
+    <title>Crash Course in Java</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/CrashCourseInJava/CrashCourseInJava.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/CrashCourseInJava/CrashCourseInJava.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Matthew Chartier '12. Comprehensive introduction to the syntax, features, advantages, and limitations of the Java programming language, relating back to C. Introducing basic topics in object-oriented programming.</synopsis>
+    <runtime>5339</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/CreatingAwesomeWebsitesWithRubyOnRails/CreatingAwesomeWebsitesWithRubyOnRails.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/CreatingAwesomeWebsitesWithRubyOnRails/CreatingAwesomeWebsitesWithRubyOnRails.png'>
+    <title>Creating Awesome Websites with Ruby on Rails</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/CreatingAwesomeWebsitesWithRubyOnRails/CreatingAwesomeWebsitesWithRubyOnRails.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/CreatingAwesomeWebsitesWithRubyOnRails/CreatingAwesomeWebsitesWithRubyOnRails.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Tommy MacWilliam '13. Ruby on Rails is a web application framework for the Ruby programming language. With Rails, interacting with complex database structures is a snap and site organization is literally done for you, allowing you to focus on creating an awesome website rather than worrying about petty low-level details. In this seminar, we'll take a look at the Ruby programming language, the MVC design pattern, and how to create and deploy a killer Rails website in minutes (that's right, minutes).</synopsis>
+    <runtime>3396</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/DataVisualizationAndGraphicsWithProcessing/DataVisualizationAndGraphicsWithProcessing.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/DataVisualizationAndGraphicsWithProcessing/DataVisualizationAndGraphicsWithProcessing.png'>
+    <title>Data Visualization and Graphics with Processing</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/DataVisualizationAndGraphicsWithProcessing/DataVisualizationAndGraphicsWithProcessing.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/DataVisualizationAndGraphicsWithProcessing/DataVisualizationAndGraphicsWithProcessing.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Mike Teodorescu '11. Used in visualizing the human genome, social networks, word maps of presidential speeches, Processing provides a complete framework for interactive visual applications. The seminar is structured as a tutorial to enable you to get started quickly with the Java-based Processing and off to a final project! A survey of visual applications using Processing will be made to give you more implementation ideas for your project.</synopsis>
+    <runtime>3961</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch.png'>
+    <title>Developing Apps for iOS: iPhone, iPad, and iPod Touch</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch/DevelopingAppsFor_iOS_iPhone_iPad_And_iPodTouch.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Scott Crouch '13. In this seminar, students will learn the fundamentals of Objective-C, Xcode, the iPhone and iPad simulator, Interface Builder and Instruments. Topics in Objective-C include the model-view-controller paradigm, basic syntax, memory management, Core Data, and UI elements. Students will learn the basics of creating simple, table, tab bar and split view controller applications.</synopsis>
+    <runtime>4064</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/EducationalSoftwareDevelopment/EducationalSoftwareDevelopment.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/EducationalSoftwareDevelopment/EducationalSoftwareDevelopment.png'>
+    <title>Educational Software Development</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/EducationalSoftwareDevelopment/EducationalSoftwareDevelopment.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/EducationalSoftwareDevelopment/EducationalSoftwareDevelopment.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Katie Vale. Interested in writing software to support teaching and learning? This session will discuss how to plan and execute an instructional project, including how to do requirements gathering, how to choose development platforms, and how to assess your project. The instructor has over 20 years experience in designing and producing educational software.</synopsis>
+    <runtime>3329</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/LinuxDemystified/LinuxDemystified.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/LinuxDemystified/LinuxDemystified.png'>
+    <title>Linux Demystified</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/LinuxDemystified/LinuxDemystified.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/LinuxDemystified/LinuxDemystified.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Jeremy Cushman '12. Come learn about arguably the most successful collective action effort in the history of the world. Dive into the tool used by the pros and learn what it takes. Bring along your laptop so you can play along.</synopsis>
+    <runtime>2595</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/ModernClient-SideWebProgramming/ModernClient-SideWebProgramming.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/ModernClient-SideWebProgramming/ModernClient-SideWebProgramming.png'>
+    <title>Modern Client-Side Web Programming</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/ModernClient-SideWebProgramming/ModernClient-SideWebProgramming.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/ModernClient-SideWebProgramming/ModernClient-SideWebProgramming.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Filip Zembowicz '11. Recent developments in the HTML5 and CSS specifications as well as powerful JavaScript libraries like jQuery have extended the realm of possibilities of what can be displayed in a browser. This seminar will be a high-level overview of the new possibilities, such as embedding video directly, using a canvas to draw arbitrary objects, dynamically storing data in the browser using localStorage, and animating and transforming your webpages to your heart's content.</synopsis>
+    <runtime>6355</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/SearchEngineOptimization_SEO/SearchEngineOptimization_SEO.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/SearchEngineOptimization_SEO/SearchEngineOptimization_SEO.png'>
+    <title>Search Engine Optimization (SEO)</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/SearchEngineOptimization_SEO/SearchEngineOptimization_SEO.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/SearchEngineOptimization_SEO/SearchEngineOptimization_SEO.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Katie Fifer '08. Ever wondered how Google picks certain websites to show up before others in search results? Ever wondered how much traffic (and money) is at stake when it comes to being number 1 on Google? Come learn how to optimize your website to make it more search-engine-friendly and boost your search engine ranking. We'll cover everything from html tags, to URLs, links, keyword strategy, and overall content.</synopsis>
+    <runtime>2526</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/SMS101_MobileApplicationsForAllTypesOfPhones/SMS101_MobileApplicationsForAllTypesOfPhones.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/SMS101_MobileApplicationsForAllTypesOfPhones/SMS101_MobileApplicationsForAllTypesOfPhones.png'>
+    <title>SMS 101: Mobile Applications for ALL Types of Phones</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/SMS101_MobileApplicationsForAllTypesOfPhones/SMS101_MobileApplicationsForAllTypesOfPhones.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/SMS101_MobileApplicationsForAllTypesOfPhones/SMS101_MobileApplicationsForAllTypesOfPhones.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Jeff Solnet '12 and Punit Shah '12. This seminar will cover the basics of developing SMS-based mobile applications. We will discuss and demonstrate how to use the Zeep Mobile and TextMarks Lite APIs, in conjunction with PHP scripts, to develop interactive SMS applications. SMS (i.e. text messages) is a nearly-universal technology on cell phones. It allows developers to create mobile applications that are cheap and compatible with all phones, whether you're using a smartphone (iPhone, Blackberry, G1) or your parents' old black-and-white Nokia. If you're thinking about changing the world, SMS has been a useful platform for the developing world where few serviced populations have access to advanced mobile devices. Farmers in many African countries are now able to get up-to-date pricing and other agricultural data thanks to SMS applications. In Kenya, mobile (SMS) banking is rapidly changing the way Kenyans create and conduct business. Whether you're interested in updating Shuttleboy or solving world peace, this seminar will be a good starting point.</synopsis>
+    <runtime>2657</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/SocializeYourAppsWithFacebookPlatform/SocializeYourAppsWithFacebookPlatform.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/SocializeYourAppsWithFacebookPlatform/SocializeYourAppsWithFacebookPlatform.png'>
+    <title>Socialize Your Apps with Facebook Platform</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/SocializeYourAppsWithFacebookPlatform/SocializeYourAppsWithFacebookPlatform.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/SocializeYourAppsWithFacebookPlatform/SocializeYourAppsWithFacebookPlatform.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Keito Uchiyama '11. How to get started with Facebook's Platform product, including use of the Graph API and how to use the SDKs in PHP. An overview of the features in the API and examples of possible integrations.</synopsis>
+    <runtime>3281</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/seminars/Vim/Vim.png' hdImg='http://cdn.cs50.net/2010/fall/seminars/Vim/Vim.png'>
+    <title>Vim</title>
+    <contentId>http://cdn.cs50.net/2010/fall/seminars/Vim/Vim.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/seminars/Vim/Vim.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Gabrielle Ehrlich '13. Learn how to use Vim, a text editor. It's awesome.</synopsis>
+    <runtime>1539</runtime>
+  </item>
+</feed>

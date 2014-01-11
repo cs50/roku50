@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed>
+  <resultLength>17</resultLength>
+  <endIndex>17</endIndex>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro.png'>
+    <title>A Programmer's Introduction to APIs</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Billy Janitsch '15. APIs allow you to programmatically access data from websites in a useful form. Facebook, Flickr, Tumblr, Google Maps, Freebase, Wikipedia, last.fm, Digg, and even CS50 all have APIs that you can use to work with a variety of interesting data. Have another source in mind? There's probably an APP for that. Oops, I mean an API. All familiarity levels welcome, and those in search of ideas for a cool final project are particularly encouraged to attend.</synopsis>
+    <runtime>2027</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps.png'>
+    <title>Android Apps (Now with Jelly Beans!)</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Jordan Jozwiak '14. As of September 2012, Android had a 68% market share on smart phones (iOS trailed with only 17% share). Android has matured substantially in the last few years and is undoubtedly here to stay. What are the differences between iOS and Android? How has Android changed with the release of ICS and Jelly Bean? And, most importantly, how can you get started developing for Android using Java and Eclipse?</synopsis>
+    <runtime>2744</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security.png'>
+    <title>Defending Behind The Device: Mobile Application Security</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Chris Wysopal. Risks to mobile devices are similar to those of traditional software applications and a result of insecure coding practices, privacy violating design, and malicious intent. But mobile devices aren't just small computers: they are designed around personal and communication functionality. This makes the top mobile applications risks different from the top traditional computing risks - and an easier opportunity for those with malicious intent. This presentation will discuss the threat landscape and how developers and enterprise IT can tackle mobile app risk.</synopsis>
+    <runtime>3435</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d.png'>
+    <title>ICT4D: Technology for Good</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Alisa Nguyen '15 and Joy Ming '15. Information Communication Technology for Development is a field where technology is applied to areas such as global health or mobile health, education and literacy, food production and distribution, and more. This seminar will demonstrate how technology can create things that are not only flashy and awesome but can change the world.</synopsis>
+    <runtime>1304</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/ios/ios.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/ios/ios.png'>
+    <title>iOS: Writing Apps like a Boss</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/ios/ios-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/ios/ios-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/ios/ios-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Tommy MacWilliam '13. Looking to create a project your friends and family can download on the App Store? Learn how easy it is to write software for iPhone and iPad. Topics include Objective-C, XCode, and design patterns, and sample apps include tic-tac-toe and a sports news reader.</synopsis>
+    <runtime>3656</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/jquery/jquery.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/jquery/jquery.png'>
+    <title>jQuery</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/jquery/jquery-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/jquery/jquery-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/jquery/jquery-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Vipul Shekhawat '14. Javascript is a client-side web programming language, used to create all sorts of functionality on websites. This seminar focuses on jQuery, one of the most widely used Javascript libraries. jQuery allows programmers to easily select and manipulate elements on an HTML page, animate elements effortlessly, send HTTP requests to servers, and much more. According to builtwith.com, over 24 million websites use jQuery, including nearly 60% of the top 10,000 websites on the Internet. Make web programming a lot easier -- come to this seminar and learn jQuery!</synopsis>
+    <runtime>2564</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks.png'>
+    <title>JavaScript Frameworks: Why and How?</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Kevin Schmid '15. JavaScript! It's awesome when you want to add interactive, client-side features to a website. But coding large projects in JavaScript can be difficult: it's tough to keep track of events, and maintain organization of the code! Enter in JavaScript frameworks, which are useful in solving these kinds of issues. In this seminar, we'll dive into the details and aspects of some frameworks, and discuss what kind of design challenges they address. Some knowledge of JavaScript, such as events and objects, is ideal, but not necessary.</synopsis>
+    <runtime>1954</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/kohana/kohana.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/kohana/kohana.png'>
+    <title>Kohana: A Lightweight PHP Framework</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/kohana/kohana-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/kohana/kohana-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/kohana/kohana-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Brandon Liu '14. Web frameworks are absolutely essential for making websites: They organize your code so that it's more maintainable, and they take care of common problems like user input sanitation and data model validation so that you don't have to reinvent the wheel every single time. There are dozens of web frameworks out there, but Kohana is one of the easiest to learn, while still providing plenty of features. It's written in PHP, so there's no need to learn a new language! The seminar will be a live-coding session, building a blog from the ground up using Kohana. Students are free to code along, but I will be moving quickly to cover more ground.</synopsis>
+    <runtime>3621</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/css/css.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/css/css.png'>
+    <title>Make an Attractive Website with CSS</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/css/css-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/css/css-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/css/css-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Ben Shryock '15. Learn to make websites even sexier than CS50 Finance with the use of Cascading Style Sheets (CSS). CSS allows precise control over visual appearance of a page, from overall layout to details such as font and margins, all from a single style sheet.</synopsis>
+    <runtime>3137</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching.png'>
+    <title>Pattern Matching with Regular Expressions</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by John Mussman '12. Regular expressions are templates that allow computers to find and match patterns in text. Pattern matching is useful when analyzing user input on consumer websites, cleaning experimental data, or mining source texts for statistical information. This seminar gives students conceptual strategies for converting patterns into regular expressions; practice using the Python re library to solve puzzles; and background to use the many implementations of regular expressions in command-line tools and languages including Python, Perl, Ruby, Java, C#, PHP, and MYSQL.</synopsis>
+    <runtime>1560</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site.png'>
+    <title>Preparing Your Site for the Web</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Yuechen Zhao '15. Designing and launching a website today is a more complex than simply whipping up some HTML and CSS. You must also take additional steps to ensure that your site is ready for the web, as websites are being viewed on different browsers and platforms by people all over the world. How can you be certain that your site will thrive under all conditions? Topics to be discussed include cross-browser/platform compatibility, web security, error handling, and performance optimization.</synopsis>
+    <runtime>2433</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet.png'>
+    <title>Surviving the Internet</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Esmond Kane. This seminar will be a truncated version of the National Cyber Security Awareness Month presentations available here: http://hvrd.me/Rx1Se9 During this year, a record number of popular online service providers, ranging from email, to social media, to cloud file sharing, were compromised resulting in our data being exposed. Now, more than ever, we need to be mindful of the need for constant vigilance when it comes to computer security. To protect yourself from cyber risks, here are some things you can do: 1. Ensure your computer has been set to automatically update 2. Enable your computer's operating system firewall 3. Install antivirus software and ensure it is set to automatically update 4. Install HTTPS and anti-tracking extensions 5. Only save your passwords to a password safe, never save passwords to your browser 6. Select a unique password for each of your accounts, do not use a common password for all of your accounts 7. Use two-factor authentication for accounts that offer it, for example, Google, PayPal, Dropbox, Facebook and many others offer free or low cost two-factor authentication 8. Be suspicious of opening email you were not expecting, or from someone you do not know, and never reply to an email asking for your password 9. Consider encrypting your hard disk using your computer's operating system encryption program, for example, FileVault or BitLocker 10. Back up your hard disk; make a local backup AND make an online backup of important data.</synopsis>
+    <runtime>2181</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews.png'>
+    <title>Technical Interviews</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Kenny Yu '14. This will be a workshop presenting the format of technical interviews, which are common in the recruiting process for software engineering roles at many tech companies. I'll be presenting tips and resources on getting through the interview, as well as walking through hands-on examples of representative problems you might see in interviews.</synopsis>
+    <runtime>2452</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments.png'>
+    <title>Unix Shells, Environments</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Douglas Kline. Unix shells consist of and depend on environments and other provisions that differ from those of other operating systems. Unix offers several different shells which have some things in common with each other. One, bash, is now becoming available on other operating systems and may become shell-lingua franca. Understanding the bases of the shells, their various capabilities, and how they differ from each other can greatly increase one's capabilities of using Unix and also illustrate the history and development of the shells and the operating system in general. Understanding how they differ from shells of other operating systems can promote understanding of both and forestall confusion and mistakes. I intend this primarily as a practical seminar as the topic isn't really theoretical and the broader historical implications have more to do with the irregular, idiosyncratic origins of Unix rather than principles of computer science.</synopsis>
+    <runtime>5659</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/vim/vim.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/vim/vim.png'>
+    <title>Vim</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/vim/vim-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/vim/vim-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/vim/vim-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Brandon Liu '14. Vim is one of the most popular text editors used by programmers. It is generally agreed that Vim allows for faster text editing than any other application, but there is a misconception that Vim has a extremely steep learning curve. With the proper instruction and guidance, you'll find yourself coding in Vim in no time, faster than ever before! This seminar will start with a showcase of what Vim is capable of, and then break out into a hands-on workshop where everyone gets their hands dirty with some Vim practice!</synopsis>
+    <runtime>2742</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/web_development/web_development.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/web_development/web_development.png'>
+    <title>Web Development: From Idea to Implementation</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/web_development/web_development-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/web_development/web_development-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/web_development/web_development-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Billy Janitsch '15 and Ben Kuhn '15. So. You have a great idea for a website. What's next? This seminar will guide you through the process of web development, from designing a solid architecture to creating a functional and beautiful user interface. Topics include project management, planning/prioritizing features, iterating over designs, and an overview of useful libraries and frameworks. We'll move quickly, but all familiarity levels are welcome. We'll be happy to field questions during and after the seminar.</synopsis>
+    <runtime>3306</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8.png' hdImg='http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8.png'>
+    <title>Windows 8 App/Game Development with HTML5</title>
+    <contentId>http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8-720p.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Led by Edwin Guarin and Chris Bowen. Are you thinking about what you want to do for your CS50 final project? Attend this session to learn how to build a Windows 8 App and/or game in HTML5. If you decide to use this for your final project, we will help you publish it in the Windows store (using a free Windows Store developer account we give you) and provide some technical guidance during the hackathon. You will also have a chance to win a Windows 8 slate device or XBOX 360! Don't miss out!</synopsis>
+    <runtime>4887</runtime>
+  </item>
+</feed>

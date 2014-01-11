@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed>
+  <resultLength>2</resultLength>
+  <endIndex>2</endIndex>
+  <item sdImg='http://cdn.cs50.net/2010/fall/quizzes/0/review0.png' hdImg='http://cdn.cs50.net/2010/fall/quizzes/0/review0.png'>
+    <title>Quiz 0</title>
+    <contentId>http://cdn.cs50.net/2010/fall/quizzes/0/review0.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/quizzes/0/review0.mp4</streamUrl>
+    </media>
+    <synopsis>Covers weeks 0 through 5.</synopsis>
+    <runtime>3594</runtime>
+  </item>
+  <item sdImg='http://cdn.cs50.net/2010/fall/quizzes/1/review1.png' hdImg='http://cdn.cs50.net/2010/fall/quizzes/1/review1.png'>
+    <title>Quiz 1</title>
+    <contentId>http://cdn.cs50.net/2010/fall/quizzes/1/review1.mp4</contentId>
+    <contentType>Talk</contentType>
+    <contentQuality>SD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2010/fall/quizzes/1/review1.mp4</streamUrl>
+    </media>
+    <synopsis>Covers weeks 0 through 10 with emphasis on 7 onward.</synopsis>
+    <runtime>5817</runtime>
+  </item>
+</feed>
