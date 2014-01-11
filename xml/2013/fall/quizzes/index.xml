@@ -3,7 +3,7 @@
   <resultLength>2</resultLength>
   <endIndex>2</endIndex>
   <item sdImg="http://cdn.cs50.net/2013/fall/quizzes/0/review0.png" hdImg="http://cdn.cs50.net/2013/fall/quizzes/0/review0.png">
-    <title>Review Session</title>
+    <title>Quiz 0</title>
     <contentId>http://cdn.cs50.net/2013/fall/quizzes/0/review0-720p.mp4</contentId>
     <subtitleUrl>http://cdn.cs50.net/2013/fall/quizzes/0/lang/en/review0.srt</subtitleUrl>
     <contentType>Talk</contentType>
@@ -22,7 +22,7 @@
     <runtime>5946</runtime>
   </item>
   <item sdImg="http://cdn.cs50.net/2013/fall/quizzes/1/review1.png" hdImg="http://cdn.cs50.net/2013/fall/quizzes/1/review1.png">
-    <title>Review Session</title>
+    <title>Quiz 1</title>
     <contentId>http://cdn.cs50.net/2013/fall/quizzes/1/review1-720p.mp4</contentId>
     <subtitleUrl>http://cdn.cs50.net/2013/fall/quizzes/1/lang/en/review1.srt</subtitleUrl>
     <contentType>Talk</contentType>
