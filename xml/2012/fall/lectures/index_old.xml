@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <feed>
   <resultLength>21</resultLength>
   <endIndex>21</endIndex>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/0/week0w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/0/week0w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/0/week0w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/0/week0w.png'>
     <title>Week 0</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/0/week0w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/0/lang/eng/week0w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -19,10 +20,10 @@
     <synopsis>Introduction. Bits. Binary. ASCII. Programming. Algorithms. Statements. Boolean expressions. Conditions. Loops. Variables. Threads. Events.</synopsis>
     <runtime>3503</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/0/week0f.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/0/week0f.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/0/week0f.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/0/week0f.png'>
     <title>Week 0, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/0/week0f-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/0/lang/eng/week0f.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -37,10 +38,10 @@
     <synopsis>Introduction. Bits. Binary. ASCII. Programming. Algorithms. Statements. Boolean expressions. Conditions. Loops. Variables. Threads. Events.</synopsis>
     <runtime>3801</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/1/week1m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/1/week1m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/1/week1m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/1/week1m.png'>
     <title>Week 1</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/1/week1m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/1/lang/eng/week1m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -55,10 +56,10 @@
     <synopsis>C. Source code. Compilers. Object code. Functions. Comments. Standard output. Arithmetic operators. Precedence. Local variables. Types. Casting. Standard input. Libraries. Boolean expressions, continued. Conditions, continued. Loops, continued.</synopsis>
     <runtime>4445</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/1/week1w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/1/week1w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/1/week1w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/1/week1w.png'>
     <title>Week 1, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/1/week1w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/1/lang/eng/week1w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -73,10 +74,10 @@
     <synopsis>C. Source code. Compilers. Object code. Functions. Comments. Standard output. Arithmetic operators. Precedence. Local variables. Types. Casting. Standard input. Libraries. Boolean expressions, continued. Conditions, continued. Loops, continued.</synopsis>
     <runtime>4412</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/2/week2m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/2/week2m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/2/week2m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/2/week2m.png'>
     <title>Week 2</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/2/week2m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/2/lang/eng/week2m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -91,10 +92,10 @@
     <synopsis>Functions, continued. Global variables. Parameters. Return values. Stack. Frames. Scope. Arrays. Strings. Command-line arguments. Cryptography.</synopsis>
     <runtime>4294</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/2/week2w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/2/week2w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/2/week2w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/2/week2w.png'>
     <title>Week 2, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/2/week2w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/2/lang/eng/week2w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -109,10 +110,10 @@
     <synopsis>Functions, continued. Global variables. Parameters. Return values. Stack. Frames. Scope. Arrays. Strings. Command-line arguments. Cryptography.</synopsis>
     <runtime>4601</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/3/week3m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/3/week3m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/3/week3m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/3/week3m.png'>
     <title>Week 3</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/3/week3m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/3/lang/eng/week3m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -127,10 +128,10 @@
     <synopsis>Linear search. Binary search. Asymptotic notation. Bubble sort. Selection sort. Merge sort.</synopsis>
     <runtime>3853</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/3/week3w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/3/week3w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/3/week3w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/3/week3w.png'>
     <title>Week 3, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/3/week3w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/3/lang/eng/week3w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -145,10 +146,10 @@
     <synopsis>Linear search. Binary search. Asymptotic notation. Bubble sort. Selection sort. Merge sort.</synopsis>
     <runtime>3889</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/4/week4m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/4/week4m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/4/week4m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/4/week4m.png'>
     <title>Week 4</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/4/week4m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/4/lang/eng/week4m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -163,10 +164,10 @@
     <synopsis>Recursion. Debugging. File I/O. Structures. Pointers. Dynamic memory allocation. Heap.</synopsis>
     <runtime>4052</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/4/week4w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/4/week4w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/4/week4w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/4/week4w.png'>
     <title>Week 4, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/4/week4w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/4/lang/eng/week4w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -181,10 +182,10 @@
     <synopsis>Recursion. Debugging. File I/O. Structures. Pointers. Dynamic memory allocation. Heap.</synopsis>
     <runtime>3958</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/5/week5f.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/5/week5f.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/5/week5f.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/5/week5f.png'>
     <title>Week 5</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/5/week5f-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/5/lang/eng/week5f.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -199,10 +200,10 @@
     <synopsis>CS50 Library. Pointers, continued. Forensics.</synopsis>
     <runtime>2633</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/6/week6m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/6/week6m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/6/week6m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/6/week6m.png'>
     <title>Week 6</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/6/week6m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/6/lang/eng/week6m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -217,10 +218,10 @@
     <synopsis>Linked lists. Stacks. Queues. Hash tables. Trees. Binary search trees. Tries.</synopsis>
     <runtime>3751</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/6/week6w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/6/week6w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/6/week6w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/6/week6w.png'>
     <title>Week 6, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/6/week6w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/6/lang/eng/week6w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -235,10 +236,10 @@
     <synopsis>Linked lists. Stacks. Queues. Hash tables. Trees. Binary search trees. Tries.</synopsis>
     <runtime>4027</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/7/week7m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/7/week7m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/7/week7m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/7/week7m.png'>
     <title>Week 7</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/7/week7m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/7/lang/eng/week7m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -253,10 +254,10 @@
     <synopsis>Huffman coding. Bitwise operators. HTTP. HTML.</synopsis>
     <runtime>4177</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/7/week7w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/7/week7w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/7/week7w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/7/week7w.png'>
     <title>Week 7, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/7/week7w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/7/lang/eng/week7w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -271,10 +272,10 @@
     <synopsis>Huffman coding. Bitwise operators. HTTP. HTML.</synopsis>
     <runtime>4449</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/8/week8w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/8/week8w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/8/week8w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/8/week8w.png'>
     <title>Week 8</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/8/week8w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/8/lang/eng/week8w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -289,10 +290,10 @@
     <synopsis>CSS. PHP. SQL.</synopsis>
     <runtime>4338</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/8/week8f.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/8/week8f.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/8/week8f.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/8/week8f.png'>
     <title>Week 8, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/8/week8f-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/8/lang/eng/week8f.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -307,10 +308,10 @@
     <synopsis>CSS. PHP. SQL.</synopsis>
     <runtime>2791</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/9/week9m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/9/week9m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/9/week9m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/9/week9m.png'>
     <title>Week 9</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/9/week9m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/9/lang/eng/week9m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -325,10 +326,10 @@
     <synopsis>SQL, continued. JavaScript. Ajax. Design.</synopsis>
     <runtime>4525</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/9/week9w.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/9/week9w.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/9/week9w.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/9/week9w.png'>
     <title>Week 9, continued</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/9/week9w-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/9/lang/eng/week9w.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -343,10 +344,10 @@
     <synopsis>SQL, continued. JavaScript. Ajax. Design.</synopsis>
     <runtime>4465</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/10/week10m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/10/week10m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/10/week10m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/10/week10m.png'>
     <title>Week 10</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/10/week10m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/10/lang/eng/week10m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -361,10 +362,10 @@
     <synopsis>Security.</synopsis>
     <runtime>3425</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/lectures/11/week11m.png" sdImg="http://cdn.cs50.net/2012/fall/lectures/11/week11m.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/lectures/11/week11m.png' hdImg='http://cdn.cs50.net/2012/fall/lectures/11/week11m.png'>
     <title>Week 11</title>
     <contentId>http://cdn.cs50.net/2012/fall/lectures/11/week11m-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/lectures/11/lang/eng/week11m.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>

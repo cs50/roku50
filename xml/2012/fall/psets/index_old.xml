@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <feed>
   <resultLength>8</resultLength>
   <endIndex>8</endIndex>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/0/walkthrough0.png" sdImg="http://cdn.cs50.net/2012/fall/psets/0/walkthrough0.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/0/walkthrough0.png' hdImg='http://cdn.cs50.net/2012/fall/psets/0/walkthrough0.png'>
     <title>Problem Set 0</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/0/walkthrough0-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/0/lang/eng/walkthrough0.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -16,13 +17,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/0/walkthrough0-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>2304</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/1/walkthrough1.png" sdImg="http://cdn.cs50.net/2012/fall/psets/1/walkthrough1.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/1/walkthrough1.png' hdImg='http://cdn.cs50.net/2012/fall/psets/1/walkthrough1.png'>
     <title>Problem Set 1</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/1/walkthrough1-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/1/lang/eng/walkthrough1.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -34,13 +35,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/1/walkthrough1-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>2851</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/2/walkthrough2.png" sdImg="http://cdn.cs50.net/2012/fall/psets/2/walkthrough2.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/2/walkthrough2.png' hdImg='http://cdn.cs50.net/2012/fall/psets/2/walkthrough2.png'>
     <title>Problem Set 2</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/2/walkthrough2-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/2/lang/eng/walkthrough2.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -52,13 +53,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/2/walkthrough2-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>3071</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/3/walkthrough3.png" sdImg="http://cdn.cs50.net/2012/fall/psets/3/walkthrough3.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/3/walkthrough3.png' hdImg='http://cdn.cs50.net/2012/fall/psets/3/walkthrough3.png'>
     <title>Problem Set 3</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/3/walkthrough3-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/3/lang/eng/walkthrough3.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -70,13 +71,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/3/walkthrough3-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>3751</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/4/walkthrough4.png" sdImg="http://cdn.cs50.net/2012/fall/psets/4/walkthrough4.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/4/walkthrough4.png' hdImg='http://cdn.cs50.net/2012/fall/psets/4/walkthrough4.png'>
     <title>Problem Set 4</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/4/walkthrough4-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/4/lang/eng/walkthrough4.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -88,13 +89,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/4/walkthrough4-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>3032</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/5/walkthrough5.png" sdImg="http://cdn.cs50.net/2012/fall/psets/5/walkthrough5.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/5/walkthrough5.png' hdImg='http://cdn.cs50.net/2012/fall/psets/5/walkthrough5.png'>
     <title>Problem Set 5</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/5/walkthrough5-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/5/lang/eng/walkthrough5.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -106,13 +107,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/5/walkthrough5-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>4427</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/6/walkthrough6.png" sdImg="http://cdn.cs50.net/2012/fall/psets/6/walkthrough6.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/6/walkthrough6.png' hdImg='http://cdn.cs50.net/2012/fall/psets/6/walkthrough6.png'>
     <title>Problem Set 6</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/6/walkthrough6-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/6/lang/eng/walkthrough6.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -124,13 +125,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/6/walkthrough6-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>3431</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/psets/7/walkthrough7.png" sdImg="http://cdn.cs50.net/2012/fall/psets/7/walkthrough7.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/psets/7/walkthrough7.png' hdImg='http://cdn.cs50.net/2012/fall/psets/7/walkthrough7.png'>
     <title>Problem Set 7</title>
     <contentId>http://cdn.cs50.net/2012/fall/psets/7/walkthrough7-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/psets/7/lang/eng/walkthrough7.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -142,7 +143,7 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/psets/7/walkthrough7-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>2815</runtime>
   </item>
 </feed>

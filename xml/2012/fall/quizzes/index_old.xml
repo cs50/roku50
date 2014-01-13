@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <feed>
   <resultLength>2</resultLength>
   <endIndex>2</endIndex>
-  <item hdImg="http://cdn.cs50.net/2012/fall/quizzes/0/review0.png" sdImg="http://cdn.cs50.net/2012/fall/quizzes/0/review0.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/quizzes/0/review0.png' hdImg='http://cdn.cs50.net/2012/fall/quizzes/0/review0.png'>
     <title>Quiz 0</title>
     <contentId>http://cdn.cs50.net/2012/fall/quizzes/0/review0-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/quizzes/0/lang/eng/review0.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -19,10 +20,10 @@
     <synopsis>Covers weeks 0 through 4.</synopsis>
     <runtime>5231</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/quizzes/1/review1.png" sdImg="http://cdn.cs50.net/2012/fall/quizzes/1/review1.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/quizzes/1/review1.png' hdImg='http://cdn.cs50.net/2012/fall/quizzes/1/review1.png'>
     <title>Quiz 1</title>
     <contentId>http://cdn.cs50.net/2012/fall/quizzes/1/review1-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/quizzes/1/lang/eng/review1.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>

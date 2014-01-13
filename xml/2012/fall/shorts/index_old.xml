@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <feed>
   <resultLength>49</resultLength>
   <endIndex>49</endIndex>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/algorithms/algorithms.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/algorithms/algorithms.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/algorithms/algorithms.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/algorithms/algorithms.png'>
     <title>Algorithms</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/algorithms/algorithms-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/algorithms/lang/eng/algorithms.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -16,13 +17,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/algorithms/algorithms-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>205</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/arduino_ide/arduino_ide.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/arduino_ide/arduino_ide.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/arduino_ide/arduino_ide.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/arduino_ide/arduino_ide.png'>
     <title>Arduino IDE</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/arduino_ide/arduino_ide-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/arduino_ide/lang/eng/arduino_ide.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -34,13 +35,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/arduino_ide/arduino_ide-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>933</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/arduino_introduction/arduino_introduction.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/arduino_introduction/arduino_introduction.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/arduino_introduction/arduino_introduction.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/arduino_introduction/arduino_introduction.png'>
     <title>Arduino Introduction</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/arduino_introduction/arduino_introduction-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/arduino_introduction/lang/eng/arduino_introduction.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -52,13 +53,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/arduino_introduction/arduino_introduction-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>378</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/arrays/arrays.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/arrays/arrays.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/arrays/arrays.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/arrays/arrays.png'>
     <title>Arrays</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/arrays/arrays-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/arrays/lang/eng/arrays.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -70,13 +71,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/arrays/arrays-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>632</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/ascii/ascii.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/ascii/ascii.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/ascii/ascii.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/ascii/ascii.png'>
     <title>ASCII</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/ascii/ascii-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/ascii/lang/eng/ascii.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -88,13 +89,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/ascii/ascii-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>482</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/asymptotic_notation/asymptotic_notation.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/asymptotic_notation/asymptotic_notation.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/asymptotic_notation/asymptotic_notation.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/asymptotic_notation/asymptotic_notation.png'>
     <title>Asymptotic Notation</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/asymptotic_notation/asymptotic_notation-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/asymptotic_notation/lang/eng/asymptotic_notation.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -106,13 +107,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/asymptotic_notation/asymptotic_notation-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>565</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/binary/binary.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/binary/binary.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/binary/binary.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/binary/binary.png'>
     <title>Binary</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/binary/binary-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/binary/lang/eng/binary.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -124,13 +125,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/binary/binary-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>494</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/binary_search/binary_search.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/binary_search/binary_search.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/binary_search/binary_search.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/binary_search/binary_search.png'>
     <title>Binary Search</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/binary_search/binary_search-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/binary_search/lang/eng/binary_search.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -142,13 +143,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/binary_search/binary_search-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>717</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/boolean_values/boolean_values.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/boolean_values/boolean_values.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/boolean_values/boolean_values.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/boolean_values/boolean_values.png'>
     <title>Boolean Values</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/boolean_values/boolean_values-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/boolean_values/lang/eng/boolean_values.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -160,13 +161,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/boolean_values/boolean_values-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>362</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/bubble_sort/bubble_sort.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/bubble_sort/bubble_sort.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/bubble_sort/bubble_sort.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/bubble_sort/bubble_sort.png'>
     <title>Bubble Sort</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/bubble_sort/bubble_sort-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/bubble_sort/lang/eng/bubble_sort.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -178,13 +179,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/bubble_sort/bubble_sort-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>345</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/caesar_cipher/caesar_cipher.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/caesar_cipher/caesar_cipher.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/caesar_cipher/caesar_cipher.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/caesar_cipher/caesar_cipher.png'>
     <title>Caesar Cipher</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/caesar_cipher/caesar_cipher-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/caesar_cipher/lang/eng/caesar_cipher.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -196,13 +197,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/caesar_cipher/caesar_cipher-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>175</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/command_line_arguments/command_line_arguments.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/command_line_arguments/command_line_arguments.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/command_line_arguments/command_line_arguments.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/command_line_arguments/command_line_arguments.png'>
     <title>Command Line Arguments</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/command_line_arguments/command_line_arguments-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/command_line_arguments/lang/eng/command_line_arguments.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -214,13 +215,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/command_line_arguments/command_line_arguments-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>445</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/compilers/compilers.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/compilers/compilers.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/compilers/compilers.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/compilers/compilers.png'>
     <title>Compilers</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/compilers/compilers-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/compilers/lang/eng/compilers.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -232,13 +233,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/compilers/compilers-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>451</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/cs50_library/cs50_library.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/cs50_library/cs50_library.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/cs50_library/cs50_library.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/cs50_library/cs50_library.png'>
     <title>CS50 Library</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/cs50_library/cs50_library-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/cs50_library/lang/eng/cs50_library.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -250,13 +251,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/cs50_library/cs50_library-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>788</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/css/css.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/css/css.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/css/css.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/css/css.png'>
     <title>CSS</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/css/css-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/css/lang/eng/css.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -268,13 +269,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/css/css-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>474</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/dom/dom.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/dom/dom.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/dom/dom.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/dom/dom.png'>
     <title>DOM</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/dom/dom-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/dom/lang/eng/dom.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -286,13 +287,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/dom/dom-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>380</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/file_i_o/file_i_o.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/file_i_o/file_i_o.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/file_i_o/file_i_o.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/file_i_o/file_i_o.png'>
     <title>File I/O</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/file_i_o/file_i_o-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/file_i_o/lang/eng/file_i_o.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -304,13 +305,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/file_i_o/file_i_o-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>686</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/functions/functions.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/functions/functions.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/functions/functions.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/functions/functions.png'>
     <title>Functions</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/functions/functions-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/functions/lang/eng/functions.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -322,13 +323,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/functions/functions-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>391</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/gdb/gdb.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/gdb/gdb.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/gdb/gdb.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/gdb/gdb.png'>
     <title>GDB</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/gdb/gdb-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/gdb/lang/eng/gdb.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -340,13 +341,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/gdb/gdb-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>590</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/global_variables/global_variables.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/global_variables/global_variables.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/global_variables/global_variables.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/global_variables/global_variables.png'>
     <title>Global Variables</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/global_variables/global_variables-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/global_variables/lang/eng/global_variables.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -358,13 +359,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/global_variables/global_variables-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>344</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/http/http.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/http/http.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/http/http.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/http/http.png'>
     <title>HTTP</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/http/http-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/http/lang/eng/http.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -376,13 +377,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/http/http-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>209</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/insertion_sort/insertion_sort.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/insertion_sort/insertion_sort.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/insertion_sort/insertion_sort.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/insertion_sort/insertion_sort.png'>
     <title>Insertion Sort</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/insertion_sort/insertion_sort-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/insertion_sort/lang/eng/insertion_sort.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -394,13 +395,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/insertion_sort/insertion_sort-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>545</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/libraries/libraries.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/libraries/libraries.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/libraries/libraries.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/libraries/libraries.png'>
     <title>Libraries</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/libraries/libraries-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/libraries/lang/eng/libraries.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -412,13 +413,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/libraries/libraries-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>428</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/linear_search/linear_search.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/linear_search/linear_search.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/linear_search/linear_search.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/linear_search/linear_search.png'>
     <title>Linear Search</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/linear_search/linear_search-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/linear_search/lang/eng/linear_search.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -430,13 +431,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/linear_search/linear_search-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>212</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/loops/loops.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/loops/loops.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/loops/loops.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/loops/loops.png'>
     <title>Loops</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/loops/loops-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/loops/lang/eng/loops.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -448,13 +449,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/loops/loops-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>560</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/make_clang/make_clang.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/make_clang/make_clang.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/make_clang/make_clang.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/make_clang/make_clang.png'>
     <title>Make, Clang</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/make_clang/make_clang-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/make_clang/lang/eng/make_clang.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -466,13 +467,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/make_clang/make_clang-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>455</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/merge_sort/merge_sort.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/merge_sort/merge_sort.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/merge_sort/merge_sort.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/merge_sort/merge_sort.png'>
     <title>Merge Sort</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/merge_sort/merge_sort-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/merge_sort/lang/eng/merge_sort.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -484,13 +485,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/merge_sort/merge_sort-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>462</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/php_sessions/php_sessions.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/php_sessions/php_sessions.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/php_sessions/php_sessions.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/php_sessions/php_sessions.png'>
     <title>PHP Sessions</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/php_sessions/php_sessions-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/php_sessions/lang/eng/php_sessions.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -502,13 +503,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/php_sessions/php_sessions-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>595</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/php_syntax/php_syntax.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/php_syntax/php_syntax.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/php_syntax/php_syntax.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/php_syntax/php_syntax.png'>
     <title>PHP Syntax</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/php_syntax/php_syntax-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/php_syntax/lang/eng/php_syntax.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -520,13 +521,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/php_syntax/php_syntax-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>914</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/php_web_development/php_web_development.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/php_web_development/php_web_development.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/php_web_development/php_web_development.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/php_web_development/php_web_development.png'>
     <title>PHP Web Development</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/php_web_development/php_web_development-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/php_web_development/lang/eng/php_web_development.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -538,13 +539,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/php_web_development/php_web_development-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>634</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/pointers/pointers.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/pointers/pointers.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/pointers/pointers.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/pointers/pointers.png'>
     <title>Pointers</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/pointers/pointers-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/pointers/lang/eng/pointers.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -556,13 +557,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/pointers/pointers-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>1095</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/precedence/precedence.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/precedence/precedence.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/precedence/precedence.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/precedence/precedence.png'>
     <title>Precedence</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/precedence/precedence-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/precedence/lang/eng/precedence.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -574,13 +575,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/precedence/precedence-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>313</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/queues/queues.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/queues/queues.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/queues/queues.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/queues/queues.png'>
     <title>Queues</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/queues/queues-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/queues/lang/eng/queues.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -592,13 +593,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/queues/queues-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>366</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/redirecting_pipes/redirecting_pipes.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/redirecting_pipes/redirecting_pipes.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/redirecting_pipes/redirecting_pipes.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/redirecting_pipes/redirecting_pipes.png'>
     <title>Redirecting &amp; Pipes</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/redirecting_pipes/redirecting_pipes-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/redirecting_pipes/lang/eng/redirecting_pipes.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -610,13 +611,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/redirecting_pipes/redirecting_pipes-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>581</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/return_values/return_values.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/return_values/return_values.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/return_values/return_values.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/return_values/return_values.png'>
     <title>Return Values</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/return_values/return_values-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/return_values/lang/eng/return_values.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -628,13 +629,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/return_values/return_values-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>245</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/rsa/rsa.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/rsa/rsa.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/rsa/rsa.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/rsa/rsa.png'>
     <title>RSA</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/rsa/rsa-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/rsa/lang/eng/rsa.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -646,13 +647,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/rsa/rsa-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>1430</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/scope/scope.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/scope/scope.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/scope/scope.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/scope/scope.png'>
     <title>Scope</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/scope/scope-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/scope/lang/eng/scope.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -664,13 +665,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/scope/scope-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>254</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/selection_sort/selection_sort.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/selection_sort/selection_sort.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/selection_sort/selection_sort.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/selection_sort/selection_sort.png'>
     <title>Selection Sort</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/selection_sort/selection_sort-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/selection_sort/lang/eng/selection_sort.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -682,13 +683,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/selection_sort/selection_sort-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>547</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/singly_linked_lists/singly_linked_lists.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/singly_linked_lists/singly_linked_lists.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/singly_linked_lists/singly_linked_lists.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/singly_linked_lists/singly_linked_lists.png'>
     <title>Singly Linked Lists</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/singly_linked_lists/singly_linked_lists-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/singly_linked_lists/lang/eng/singly_linked_lists.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -700,13 +701,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/singly_linked_lists/singly_linked_lists-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>718</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/sql/sql.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/sql/sql.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/sql/sql.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/sql/sql.png'>
     <title>SQL</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/sql/sql-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/sql/lang/eng/sql.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -718,13 +719,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/sql/sql-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>649</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/strings/strings.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/strings/strings.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/strings/strings.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/strings/strings.png'>
     <title>Strings</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/strings/strings-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/strings/lang/eng/strings.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -736,13 +737,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/strings/strings-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>138</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/structs/structs.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/structs/structs.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/structs/structs.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/structs/structs.png'>
     <title>Structs</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/structs/structs-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/structs/lang/eng/structs.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -754,13 +755,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/structs/structs-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>828</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/style/style.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/style/style.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/style/style.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/style/style.png'>
     <title>Style</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/style/style-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/style/lang/eng/style.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -772,13 +773,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/style/style-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>731</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/threads/threads.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/threads/threads.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/threads/threads.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/threads/threads.png'>
     <title>Threads</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/threads/threads-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/threads/lang/eng/threads.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -790,13 +791,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/threads/threads-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>406</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/trees/trees.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/trees/trees.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/trees/trees.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/trees/trees.png'>
     <title>Trees</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/trees/trees-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/trees/lang/eng/trees.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -808,13 +809,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/trees/trees-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>326</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/typecasting/typecasting.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/typecasting/typecasting.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/typecasting/typecasting.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/typecasting/typecasting.png'>
     <title>Typecasting</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/typecasting/typecasting-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/typecasting/lang/eng/typecasting.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -826,13 +827,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/typecasting/typecasting-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>432</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/valgrind/valgrind.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/valgrind/valgrind.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/valgrind/valgrind.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/valgrind/valgrind.png'>
     <title>Valgrind</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/valgrind/valgrind-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/valgrind/lang/eng/valgrind.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -844,13 +845,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/valgrind/valgrind-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>746</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/variables/variables.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/variables/variables.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/variables/variables.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/variables/variables.png'>
     <title>Variables</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/variables/variables-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/variables/lang/eng/variables.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -862,13 +863,13 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/variables/variables-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>334</runtime>
   </item>
-  <item hdImg="http://cdn.cs50.net/2012/fall/shorts/vigenere_cipher/vigenere_cipher.png" sdImg="http://cdn.cs50.net/2012/fall/shorts/vigenere_cipher/vigenere_cipher.png">
+  <item sdImg='http://cdn.cs50.net/2012/fall/shorts/vigenere_cipher/vigenere_cipher.png' hdImg='http://cdn.cs50.net/2012/fall/shorts/vigenere_cipher/vigenere_cipher.png'>
     <title>Vigen&#232;re Cipher</title>
     <contentId>http://cdn.cs50.net/2012/fall/shorts/vigenere_cipher/vigenere_cipher-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/shorts/vigenere_cipher/lang/eng/vigenere_cipher.srt</subtitleURL><contentType>Talk</contentType>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -880,7 +881,7 @@
       <streamQuality>SD</streamQuality>
       <streamUrl>http://cdn.cs50.net/2012/fall/shorts/vigenere_cipher/vigenere_cipher-360p.mp4</streamUrl>
     </media>
-    <synopsis />
+    <synopsis></synopsis>
     <runtime>446</runtime>
   </item>
 </feed>
