@@ -1,0 +1,33 @@
+<categories>
+  <category title="2013" description="" sd_img="http://cdn.cs50.net/2013/fall/index.png" hd_img="http://cdn.cs50.net/2013/fall/index.png">
+    <categoryLeaf title="Lectures" description="" feed="http://cdn.cs50.net/2013/fall/lectures/index.xml"/>
+    <categoryLeaf title="Sections" description="" feed="http://cdn.cs50.net/2013/fall/sections/index.xml"/>
+    <categoryLeaf title="Walkthroughs (Lectures)" description="" feed="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/index.xml"/>
+    <categoryLeaf title="Walkthroughs (Problem Sets)" description="" feed="http://cdn.cs50.net/2013/fall/walkthroughs/pset/index.xml"/>
+    <categoryLeaf title="Shorts" description="" feed="http://cdn.cs50.net/2013/fall/shorts/index.xml"/>
+    <categoryLeaf title="Reviews" description="" feed="http://cdn.cs50.net/2013/fall/quizzes/index.xml"/>
+    <categoryLeaf title="Seminars" description="" feed="http://cdn.cs50.net/2013/fall/seminars/index.xml"/>
+  </category>
+  <category title="2012" description="" sd_img="http://cdn.cs50.net/2012/fall/index.png" hd_img="http://cdn.cs50.net/2012/fall/index.png">
+    <categoryLeaf title="Lectures" description="" feed="http://cdn.cs50.net/2012/fall/lectures/index.xml"/>
+    <categoryLeaf title="Sections" description="" feed="http://cdn.cs50.net/2012/fall/sections/index.xml"/>
+    <categoryLeaf title="Shorts" description="" feed="http://cdn.cs50.net/2012/fall/shorts/index.xml"/>
+    <categoryLeaf title="Walkthroughs" description="" feed="http://cdn.cs50.net/2012/fall/psets/index.xml"/>
+    <categoryLeaf title="Reviews" description="" feed="http://cdn.cs50.net/2012/fall/quizzes/index.xml"/>
+    <categoryLeaf title="Seminars" description="" feed="http://cdn.cs50.net/2012/fall/seminars/index.xml"/>
+  </category>
+  <category title="2011" description="" sd_img="http://cdn.cs50.net/2011/fall/index.png" hd_img="http://cdn.cs50.net/2011/fall/index.png">
+    <categoryLeaf title="Lectures" description="" feed="http://cdn.cs50.net/2011/fall/lectures/index.xml"/>
+    <categoryLeaf title="Sections" description="" feed="http://cdn.cs50.net/2011/fall/sections/index.xml"/>
+    <categoryLeaf title="Walkthroughs" description="" feed="http://cdn.cs50.net/2011/fall/psets/index.xml"/>
+    <categoryLeaf title="Reviews" description="" feed="http://cdn.cs50.net/2011/fall/quizzes/index.xml"/>
+    <categoryLeaf title="Seminars" description="" feed="http://cdn.cs50.net/2011/fall/seminars/index.xml"/>
+  </category>
+  <category title="2010" description="" sd_img="http://cdn.cs50.net/2010/fall/index.png" hd_img="http://cdn.cs50.net/2010/fall/index.png">
+    <categoryLeaf title="Lectures" description="" feed="http://cdn.cs50.net/2010/fall/lectures/index.xml"/>
+    <categoryLeaf title="Sections" description="" feed="http://cdn.cs50.net/2010/fall/sections/index.xml"/>
+    <categoryLeaf title="Walkthroughs" description="" feed="http://cdn.cs50.net/2010/fall/psets/index.xml"/>
+    <categoryLeaf title="Reviews" description="" feed="http://cdn.cs50.net/2010/fall/quizzes/index.xml"/>
+    <categoryLeaf title="Seminars" description="" feed="http://cdn.cs50.net/2010/fall/seminars/index.xml"/>
+  </category>
+</categories>
