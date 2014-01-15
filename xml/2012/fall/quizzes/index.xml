@@ -4,7 +4,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/quizzes/0/review0.png" sdImg="http://cdn.cs50.net/2012/fall/quizzes/0/review0.png">
     <title>Quiz 0</title>
     <contentId>http://cdn.cs50.net/2012/fall/quizzes/0/review0-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/quizzes/0/lang/eng/review0.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/quizzes/0/lang/eng/review0.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -22,7 +23,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/quizzes/1/review1.png" sdImg="http://cdn.cs50.net/2012/fall/quizzes/1/review1.png">
     <title>Quiz 1</title>
     <contentId>http://cdn.cs50.net/2012/fall/quizzes/1/review1-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/quizzes/1/lang/eng/review1.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/quizzes/1/lang/eng/review1.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
