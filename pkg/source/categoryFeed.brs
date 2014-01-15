@@ -12,8 +12,8 @@ Function InitCategoryFeedConnection() As Object
 
     conn = CreateObject("roAssociativeArray")
 
-    conn.UrlCategoryFeed = "http://local.cdn.cs50.net/test/index.xml"
-    'conn.UrlCategoryFeed = "http://cdn.cs50.net/index.xml"
+    conn.UrlPrefix   = "http://cs50.tv"
+    conn.UrlCategoryFeed = conn.UrlPrefix + "/?output=roku"
 
     conn.Timer = CreateObject("roTimespan")
 
@@ -126,7 +126,7 @@ Function ParseCategoryNode(xml As Object) As dynamic
     print "ParseCategoryNode: " + xml.GetName()
     'PrintXML(xml, 5)
 
-    'parse the current node to determine the type. everything except
+    'parse the curent node to determine the type. everything except
     'special categories are considered normal, others have unique types 
     if xml.GetName() = "category" then
         print "category: " + xml@title + " | " + xml@description
