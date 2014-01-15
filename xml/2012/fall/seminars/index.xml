@@ -4,7 +4,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro.png">
     <title>A Programmer's Introduction to APIs</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/programmer_intro/programmer_intro-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/programmer_intro/lang/eng/programmer_intro.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/programmer_intro/lang/eng/programmer_intro.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -22,7 +23,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps.png">
     <title>Android Apps (Now with Jelly Beans!)</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/android_apps/android_apps-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/android_apps/lang/eng/android_apps.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/android_apps/lang/eng/android_apps.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -40,7 +42,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security.png">
     <title>Defending Behind The Device: Mobile Application Security</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/mobile_application_security-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/lang/eng/mobile_application_security.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/mobile_application_security/lang/eng/mobile_application_security.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -58,7 +61,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d.png">
     <title>ICT4D: Technology for Good</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/ict4d/ict4d-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/ict4d/lang/eng/ict4d.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/ict4d/lang/eng/ict4d.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -76,7 +80,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/ios/ios.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/ios/ios.png">
     <title>iOS: Writing Apps like a Boss</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/ios/ios-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/ios/lang/eng/ios.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/ios/lang/eng/ios.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -94,7 +99,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/jquery/jquery.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/jquery/jquery.png">
     <title>jQuery</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/jquery/jquery-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/jquery/lang/eng/jquery.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/jquery/lang/eng/jquery.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -112,7 +118,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks.png">
     <title>JavaScript Frameworks: Why and How?</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/javascript_frameworks-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/lang/eng/javascript_frameworks.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/javascript_frameworks/lang/eng/javascript_frameworks.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -130,7 +137,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/kohana/kohana.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/kohana/kohana.png">
     <title>Kohana: A Lightweight PHP Framework</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/kohana/kohana-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/kohana/lang/eng/kohana.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/kohana/lang/eng/kohana.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -148,7 +156,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/css/css.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/css/css.png">
     <title>Make an Attractive Website with CSS</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/css/css-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/css/lang/eng/css.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/css/lang/eng/css.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -166,7 +175,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching.png">
     <title>Pattern Matching with Regular Expressions</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/pattern_matching/pattern_matching-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/pattern_matching/lang/eng/pattern_matching.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/pattern_matching/lang/eng/pattern_matching.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -184,7 +194,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site.png">
     <title>Preparing Your Site for the Web</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/preparing_your_site-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/lang/eng/preparing_your_site.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/preparing_your_site/lang/eng/preparing_your_site.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -202,7 +213,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet.png">
     <title>Surviving the Internet</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/surviving_the_internet-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/lang/eng/surviving_the_internet.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/surviving_the_internet/lang/eng/surviving_the_internet.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -220,7 +232,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews.png">
     <title>Technical Interviews</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/technical_interviews/technical_interviews-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/technical_interviews/lang/eng/technical_interviews.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/technical_interviews/lang/eng/technical_interviews.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -238,7 +251,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments.png">
     <title>Unix Shells, Environments</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/unix_shells_environments-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/lang/eng/unix_shells_environments.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/unix_shells_environments/lang/eng/unix_shells_environments.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -256,7 +270,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/vim/vim.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/vim/vim.png">
     <title>Vim</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/vim/vim-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/vim/lang/eng/vim.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/vim/lang/eng/vim.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -274,7 +289,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/web_development/web_development.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/web_development/web_development.png">
     <title>Web Development: From Idea to Implementation</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/web_development/web_development-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/web_development/lang/eng/web_development.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/web_development/lang/eng/web_development.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
@@ -292,7 +308,8 @@
   <item hdImg="http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8.png" sdImg="http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8.png">
     <title>Windows 8 App/Game Development with HTML5</title>
     <contentId>http://cdn.cs50.net/2012/fall/seminars/windows_8/windows_8-720p.mp4</contentId>
-    <subtitleURL>http://cdn.cs50.net/2012/fall/seminars/windows_8/lang/eng/windows_8.srt</subtitleURL><contentType>Talk</contentType>
+    <subtitleUrl>http://cdn.cs50.net/2012/fall/seminars/windows_8/lang/eng/windows_8.srt</subtitleUrl>
+    <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
