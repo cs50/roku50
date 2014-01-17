@@ -2,7 +2,7 @@
 <feed>
     <resultLength>5</resultLength>
     <endIndex>5</endIndex>
-            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/hash_tables/hash_tables-240p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/hash_tables/hash_tables-240p.png">
+            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/hash_tables/hash_tables-140p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/hash_tables/hash_tables-140p.png">
             <title>Hash Tables</title>
             <contentId>http://cdn.cs50.net/2013/fall/shorts/hash_tables/hash_tables-720p.mp4</contentId>
             <subtitleUrl>http://cdn.cs50.net/2013/fall/shorts/hash_tables/lang/en/hash_tables.ttml</subtitleUrl>
@@ -21,7 +21,7 @@
             <synopsis></synopsis>
             <runtime>461</runtime>
         </item>
-            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/html/html-240p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/html/html-240p.png">
+            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/html/html-140p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/html/html-140p.png">
             <title>HTML</title>
             <contentId>http://cdn.cs50.net/2013/fall/shorts/html/html-720p.mp4</contentId>
             <subtitleUrl>http://cdn.cs50.net/2013/fall/shorts/html/lang/en/html.srt</subtitleUrl>
@@ -40,7 +40,7 @@
             <synopsis></synopsis>
             <runtime>425</runtime>
         </item>
-            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/recursion/recursion-240p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/recursion/recursion-240p.png">
+            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/recursion/recursion-140p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/recursion/recursion-140p.png">
             <title>Recursion</title>
             <contentId>http://cdn.cs50.net/2013/fall/shorts/recursion/recursion-720p.mp4</contentId>
             <subtitleUrl>http://cdn.cs50.net/2013/fall/shorts/recursion/lang/en/recursion.srt</subtitleUrl>
@@ -59,7 +59,7 @@
             <synopsis></synopsis>
             <runtime>554</runtime>
         </item>
-            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/scratch/scratch-240p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/scratch/scratch-240p.png">
+            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/scratch/scratch-140p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/scratch/scratch-140p.png">
             <title>Scratch</title>
             <contentId>http://cdn.cs50.net/2013/fall/shorts/scratch/scratch-720p.mp4</contentId>
             <subtitleUrl>http://cdn.cs50.net/2013/fall/shorts/scratch/lang/en/scratch.srt</subtitleUrl>
@@ -78,7 +78,7 @@
             <synopsis></synopsis>
             <runtime>344</runtime>
         </item>
-            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/tries/tries-240p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/tries/tries-240p.png">
+            <item sdImg="http://cdn.cs50.net/2013/fall/shorts/tries/tries-140p.png" hdImg="http://cdn.cs50.net/2013/fall/shorts/tries/tries-140p.png">
             <title>Tries</title>
             <contentId>http://cdn.cs50.net/2013/fall/shorts/tries/tries-720p.mp4</contentId>
             <subtitleUrl>http://cdn.cs50.net/2013/fall/shorts/tries/lang/en/tries.srt</subtitleUrl>

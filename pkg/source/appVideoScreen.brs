@@ -26,6 +26,7 @@ Function showVideoScreen(episode As Object)
 
     screen.SetPositionNotificationPeriod(30)
     screen.SetContent(episode)
+    screen.ShowSubtitle(true)
     screen.Show()
 
     'Uncomment his line to dump the contents of the episode to be played
