@@ -2,7 +2,7 @@
 <feed>
     <resultLength>1</resultLength>
     <endIndex>1</endIndex>
-    <item sdImg="http://cdn.cs50.net/2014/live/001/live000-140p.png" hdImg="http://cdn.cs50.net/2014/live/001/live000-140p.png">
+    <item sdImg="http://cdn.cs50.net/2014/live/000/live000-140p.png" hdImg="http://cdn.cs50.net/2014/live/000/live000-140p.png">
         <title>Episode 000</title>
         <contentId>http://cdn.cs50.net/2014/live/000/live000-720p.mp4</contentId>
         <subtitleUrl>http://cdn.cs50.net/2014/live/000/lang/en/live000.srt</subtitleUrl>
