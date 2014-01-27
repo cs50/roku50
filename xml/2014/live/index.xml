@@ -16,7 +16,7 @@
         <media>
           <streamFormat>mp4</streamFormat>
           <streamQuality>SD</streamQuality>
-          <streamUrl>http://cdn.cs50.net/2014/live/001/live001-360p.mp4</streamUrl>
+          <streamUrl>http://cdn.cs50.net/2014/live/000/live000-360p.mp4</streamUrl>
         </media>
         <synopsis>David takes students on a virtual tour of Harvard and is greeted by students from all over the world. He answers questions from the CS50x audience, gives us 60 seconds of cats, and gives a glimpse of the CS50 Fair of 2013.</synopsis>
         <runtime>1280</runtime>
