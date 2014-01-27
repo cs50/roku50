@@ -3,7 +3,7 @@
     <resultLength>1</resultLength>
     <endIndex>1</endIndex>
     <item sdImg="http://cdn.cs50.net/2014/live/001/live000-140p.png" hdImg="http://cdn.cs50.net/2014/live/001/live000-140p.png">
-        <title>000</title>
+        <title>Episode 000</title>
         <contentId>http://cdn.cs50.net/2014/live/000/live000-720p.mp4</contentId>
         <subtitleUrl>http://cdn.cs50.net/2014/live/000/lang/en/live000.srt</subtitleUrl>
         <contentType>Talk</contentType>
@@ -16,9 +16,28 @@
         <media>
           <streamFormat>mp4</streamFormat>
           <streamQuality>SD</streamQuality>
-          <streamUrl>http://cdn.cs50.net/2014/live/000/live000-360p.mp4</streamUrl>
+          <streamUrl>http://cdn.cs50.net/2014/live/001/live001-360p.mp4</streamUrl>
         </media>
         <synopsis>David takes students on a virtual tour of Harvard and is greeted by students from all over the world. He answers questions from the CS50x audience, gives us 60 seconds of cats, and gives a glimpse of the CS50 Fair of 2013.</synopsis>
         <runtime>1280</runtime>
+    </item>
+    <item sdImg="http://cdn.cs50.net/2014/live/001/live001-140p.png" hdImg="http://cdn.cs50.net/2014/live/001/live001-140p.png">
+        <title>Episode 001</title>
+        <contentId>http://cdn.cs50.net/2014/live/001/live001-720p.mp4</contentId>
+        <subtitleUrl>http://cdn.cs50.net/2014/live/001/lang/en/live001.srt</subtitleUrl>
+        <contentType>Talk</contentType>
+        <contentQuality>HD</contentQuality>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>HD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/001/live001-720p.mp4</streamUrl>
+        </media>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>SD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/001/live001-360p.mp4</streamUrl>
+        </media>
+        <synopsis>In this episode... David shares some Hello World videos, answers some of your questions, and reviews some posts from Facebook and Reddit. Rob Bowden interviews Dr. Henry Leitner who tells some stories of his times with Bill Gates and Mark Zuckerberg. There are 60 seconds of puppies. And the CS50 Team heads to Scratch headquarters at MIT to talk to creator Mitchel Resnick, and Developer John Maloney about the platform. Be sure not to miss David's big "reddor" flub at 28:20!</synopsis>
+        <runtime>1744</runtime>
     </item>
 </feed>
