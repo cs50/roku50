@@ -40,4 +40,23 @@
         <synopsis>In this episode... David shares some Hello World videos, answers some of your questions, and reviews some posts from Facebook and Reddit. Rob Bowden interviews Dr. Henry Leitner who tells some stories of his times with Bill Gates and Mark Zuckerberg. There are 60 seconds of puppies. And the CS50 Team heads to Scratch headquarters at MIT to talk to creator Mitchel Resnick, and Developer John Maloney about the platform. Be sure not to miss David's big "reddor" flub at 28:20!</synopsis>
         <runtime>1744</runtime>
     </item>
+    <item sdImg="http://cdn.cs50.net/2014/live/002/live002-140p.png" hdImg="http://cdn.cs50.net/2014/live/002/live002-140p.png">
+        <title>Episode 002</title>
+        <contentId>http://cdn.cs50.net/2014/live/002/live002-720p.mp4</contentId>
+        <subtitleUrl>http://cdn.cs50.net/2014/live/002/lang/en/live002.srt</subtitleUrl>
+        <contentType>Talk</contentType>
+        <contentQuality>HD</contentQuality>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>HD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/002/live002-720p.mp4</streamUrl>
+        </media>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>SD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/002/live002-360p.mp4</streamUrl>
+        </media>
+        <synopsis>In this episode, David shares some of the latest news, takes a trip to Target to get some desk lamps, and speaks with 2 of CS50's TFs about Google Glass. Don't miss Peanut Butter Jelly Time or some fun with the green screen!</synopsis>
+        <runtime>1434</runtime>
+    </item>
 </feed>
