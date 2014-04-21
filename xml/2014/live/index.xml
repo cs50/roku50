@@ -116,4 +116,23 @@
         <synopsis>In this episode, David's lost his voice, so Ramon lends a hand with hosting. Mark Zuckerberg of Facebook gives a guest CS50 Lecture. Hadi Partovi of Code.org says hello. The team travels to St. Louis for a hackathon with LaunchCode. Plus glass blowing with Jim McKelvey, founder of LaunchCode and Square!</synopsis>
         <runtime>1064</runtime>
     </item>
+    <item sdImg="http://cdn.cs50.net/2014/live/006/live006-140p.png" hdImg="http://cdn.cs50.net/2014/live/006/live006-140p.png">
+        <title>Episode 006</title>
+        <contentId>http://cdn.cs50.net/2014/live/006/live006-720p.mp4</contentId>
+        <subtitleUrl>http://cdn.cs50.net/2014/live/006/lang/en/live006.srt</subtitleUrl>
+        <contentType>Talk</contentType>
+        <contentQuality>HD</contentQuality>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>HD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/006/live006-720p.mp4</streamUrl>
+        </media>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>SD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/006/live006-360p.mp4</streamUrl>
+        </media>
+        <synopsis>In this episode, Heartbleed attacks, CS50 Stories, a trip to Vegas, a behind-the-scenes tour of Dropbox, desk lamps, and more!</synopsis>
+        <runtime>1539</runtime>
+    </item>
 </feed>
