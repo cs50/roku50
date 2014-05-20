@@ -135,4 +135,42 @@
         <synopsis>In this episode, Heartbleed attacks, CS50 Stories, a trip to Vegas, a behind-the-scenes tour of Dropbox, desk lamps, and more!</synopsis>
         <runtime>1539</runtime>
     </item>
+    <item sdImg="http://cdn.cs50.net/2014/live/007/live007-140p.png" hdImg="http://cdn.cs50.net/2014/live/007/live007-140p.png">
+        <title>Episode 007</title>
+        <contentId>http://cdn.cs50.net/2014/live/007/live007-720p.mp4</contentId>
+        <subtitleUrl>http://cdn.cs50.net/2014/live/007/lang/en/live007.srt</subtitleUrl>
+        <contentType>Talk</contentType>
+        <contentQuality>HD</contentQuality>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>HD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/007/live007-720p.mp4</streamUrl>
+        </media>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>SD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/007/live007-360p.mp4</streamUrl>
+        </media>
+        <synopsis>A programmable robot. The CEO of YouTube. A bug in Internet Explorer. The worst video game ever. And a trip to Valve Software.</synopsis>
+        <runtime>1158</runtime>
+    </item>
+    <item sdImg="http://cdn.cs50.net/2014/live/008/live008-140p.png" hdImg="http://cdn.cs50.net/2014/live/008/live008-140p.png">
+        <title>Episode 008</title>
+        <contentId>http://cdn.cs50.net/2014/live/008/live008-720p.mp4</contentId>
+        <subtitleUrl>http://cdn.cs50.net/2014/live/008/lang/en/live008.srt</subtitleUrl>
+        <contentType>Talk</contentType>
+        <contentQuality>HD</contentQuality>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>HD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/008/live008-720p.mp4</streamUrl>
+        </media>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>SD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/008/live008-360p.mp4</streamUrl>
+        </media>
+        <synopsis>How Dropbox works. Tiny hamsters eating tiny burritos. Behind the scenes of CS50's 48-hour film project.</synopsis>
+        <runtime>1244</runtime>
+    </item>
 </feed>
