@@ -173,4 +173,23 @@
         <synopsis>How Dropbox works. Tiny hamsters eating tiny burritos. Behind the scenes of CS50's 48-hour film project.</synopsis>
         <runtime>1244</runtime>
     </item>
+    <item sdImg="http://cdn.cs50.net/2014/live/009/live009-140p.png" hdImg="http://cdn.cs50.net/2014/live/009/live009-140p.png">
+        <title>Episode 009</title>
+        <contentId>http://cdn.cs50.net/2014/live/009/live009-720p.mp4</contentId>
+        <subtitleUrl>http://cdn.cs50.net/2014/live/009/lang/en/live009.srt</subtitleUrl>
+        <contentType>Talk</contentType>
+        <contentQuality>HD</contentQuality>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>HD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/009/live009-720p.mp4</streamUrl>
+        </media>
+        <media>
+          <streamFormat>mp4</streamFormat>
+          <streamQuality>SD</streamQuality>
+          <streamUrl>http://cdn.cs50.net/2014/live/009/live009-360p.mp4</streamUrl>
+        </media>
+        <synopsis>Desk lamps, image stabilization, robosoccer, and a look back at Season 0.</synopsis>
+        <runtime>1292</runtime>
+    </item>
 </feed>
