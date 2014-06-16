@@ -14,7 +14,7 @@ Function preShowDetailScreen(breadA=invalid, breadB=invalid) As Object
     end if
     
     'set thumbnails to be in 16x9 format if we're in year 2012 or higher
-    screen.SetPosterStyle("rounded-rect-16x9-generic")
+    'screen.SetPosterStyle("rounded-rect-16x9-generic")
 
     return screen
 End Function
