@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed>
+  <resultLength>6</resultLength>
+  <endIndex>6</endIndex>
+  <item sdImg="http://cdn.cs50.net/2014/fall/sections/1/less/less1-140p.png" hdImg="http://cdn.cs50.net/2014/fall/sections/1/less/less1-140p.png">
+    <title>Section 1 (less comfortable)</title>
+    <contentId>http://cdn.cs50.net/2014/fall/sections/1/less/less1-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/sections/1/less/lang/en/less1.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/1/less/less1-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/1/less/less1-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>4455</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/sections/1/more/more1-140p.png" hdImg="http://cdn.cs50.net/2014/fall/sections/1/more/more1-140p.png">
+    <title>Section 1 (more comfortable)</title>
+    <contentId>http://cdn.cs50.net/2014/fall/sections/1/more/more1-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/sections/1/more/lang/en/more1.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/1/more/more1-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/1/more/more1-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>5029</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/sections/2/section2-140p.png" hdImg="http://cdn.cs50.net/2014/fall/sections/2/section2-140p.png">
+    <title>Section 2</title>
+    <contentId>http://cdn.cs50.net/2014/fall/sections/2/section2-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/sections/2/lang/en/section2.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/2/section2-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/2/section2-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3960</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/sections/3/section3-140p.png" hdImg="http://cdn.cs50.net/2014/fall/sections/3/section3-140p.png">
+    <title>Section 3</title>
+    <contentId>http://cdn.cs50.net/2014/fall/sections/3/section3-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/sections/3/lang/en/section3.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/3/section3-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/3/section3-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>4901</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/sections/4/section4-140p.png" hdImg="http://cdn.cs50.net/2014/fall/sections/4/section4-140p.png">
+    <title>Section 4</title>
+    <contentId>http://cdn.cs50.net/2014/fall/sections/4/section4-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/sections/4/lang/en/section4.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/4/section4-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/4/section4-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>4315</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/sections/5/section5-140p.png" hdImg="http://cdn.cs50.net/2014/fall/sections/5/section5-140p.png">
+    <title>Section 5</title>
+    <contentId>http://cdn.cs50.net/2014/fall/sections/5/section5-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/sections/5/lang/en/section5.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/5/section5-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/sections/5/section5-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>4678</runtime>
+  </item>
+</feed>

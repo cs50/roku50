@@ -2,6 +2,10 @@
   <category title="LIVE" description="" sd_img="http://cdn.cs50.net/2014/live/index.png" hd_img="http://cdn.cs50.net/2014/live/index.png">
     <categoryLeaf title="Episodes" description="" feed="http://cdn.cs50.net/2014/live/index.xml"/>
   </category>
+  <category title="2014" description="" sd_img="http://cdn.cs50.net/2014/fall/index.png" hd_img="http://cdn.cs50.net/2014/fall/index.png">
+    <categoryLeaf title="Lectures" description="" feed="http://cdn.cs50.net/2014/fall/lectures/index.xml"/>
+    <categoryLeaf title="Sections" description="" feed="http://cdn.cs50.net/2014/fall/sections/index.xml"/>
+  </category>
   <category title="2013" description="" sd_img="http://cdn.cs50.net/2013/fall/index.png" hd_img="http://cdn.cs50.net/2013/fall/index.png">
     <categoryLeaf title="Lectures" description="" feed="http://cdn.cs50.net/2013/fall/lectures/index.xml"/>
     <categoryLeaf title="Sections" description="" feed="http://cdn.cs50.net/2013/fall/sections/index.xml"/>
