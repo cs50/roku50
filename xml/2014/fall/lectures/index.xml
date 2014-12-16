@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed>
-  <resultLength>12</resultLength>
-  <endIndex>12</endIndex>
+  <resultLength>22</resultLength>
+  <endIndex>22</endIndex>
   <item sdImg="http://cdn.cs50.net/2014/fall/lectures/0/w/week0w-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/0/w/week0w-140p.png">
     <title>Week 0</title>
     <contentId>http://cdn.cs50.net/2014/fall/lectures/0/w/week0w-720p.mp4</contentId>
