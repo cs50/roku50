@@ -230,4 +230,194 @@
     <synopsis>Heap. Buffer overflow. Linked lists.</synopsis>
     <runtime>2859</runtime>
   </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/6/f/week6f-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/6/f/week6f-140p.png">
+    <title>Week 6</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/6/f/week6f-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/6/f/lang/en/week6f.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/6/f/week6f-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/6/f/week6f-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Hash tables. Tries. Trees. Stacks. Queues.</synopsis>
+    <runtime>2953</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/7/m/week7m-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/7/m/week7m-140p.png">
+    <title>Week 7</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/7/m/week7m-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/7/m/lang/en/week7m.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/7/m/week7m-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/7/m/week7m-360p.mp4</streamUrl>
+    </media>
+    <synopsis>TCP/IP. HTTP. HTML. CSS.</synopsis>
+    <runtime>3259</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/7/w/week7w-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/7/w/week7w-140p.png">
+    <title>Week 7, continued</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/7/w/week7w-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/7/w/lang/en/week7w.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/7/w/week7w-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/7/w/week7w-360p.mp4</streamUrl>
+    </media>
+    <synopsis>TCP/IP. HTTP. HTML. CSS.</synopsis>
+    <runtime>2978</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/8/m/week8m-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/8/m/week8m-140p.png">
+    <title>Week 8</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/8/m/week8m-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/8/m/lang/en/week8m.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/8/m/week8m-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/8/m/week8m-360p.mp4</streamUrl>
+    </media>
+    <synopsis>PHP. MVC. SQL.</synopsis>
+    <runtime>3264</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/8/w/week8w-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/8/w/week8w-140p.png">
+    <title>Week 8, continued</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/8/w/week8w-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/8/w/lang/en/week8w.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/8/w/week8w-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/8/w/week8w-360p.mp4</streamUrl>
+    </media>
+    <synopsis>PHP. MVC. SQL.</synopsis>
+    <runtime>3078</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/9/m/week9m-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/9/m/week9m-140p.png">
+    <title>Week 9</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/9/m/week9m-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/9/m/lang/en/week9m.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/9/m/week9m-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/9/m/week9m-360p.mp4</streamUrl>
+    </media>
+    <synopsis>JavaScript. Ajax.</synopsis>
+    <runtime>2889</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/9/w/week9w-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/9/w/week9w-140p.png">
+    <title>Week 9, continued</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/9/w/week9w-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/9/w/lang/en/week9w.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/9/w/week9w-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/9/w/week9w-360p.mp4</streamUrl>
+    </media>
+    <synopsis>JavaScript. Ajax.</synopsis>
+    <runtime>2555</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/10/m/week10m-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/10/m/week10m-140p.png">
+    <title>Week 10</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/10/m/week10m-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/10/m/lang/en/week10m.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/10/m/week10m-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/10/m/week10m-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Security. Guest Lecture.</synopsis>
+    <runtime>3107</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/10/w/week10w-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/10/w/week10w-140p.png">
+    <title>Week 10, continued</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/10/w/week10w-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/10/w/lang/en/week10w.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/10/w/week10w-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/10/w/week10w-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Security. Guest Lecture.</synopsis>
+    <runtime>2877</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2014/fall/lectures/12/m/week12m-140p.png" hdImg="http://cdn.cs50.net/2014/fall/lectures/12/m/week12m-140p.png">
+    <title>Week 12</title>
+    <contentId>http://cdn.cs50.net/2014/fall/lectures/12/m/week12m-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/lectures/12/m/lang/en/week12m.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/12/m/week12m-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2014/fall/lectures/12/m/week12m-360p.mp4</streamUrl>
+    </media>
+    <synopsis>Exciting conclusion.</synopsis>
+    <runtime>2519</runtime>
+  </item>
 </feed>
