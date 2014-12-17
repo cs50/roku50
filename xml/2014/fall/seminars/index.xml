@@ -287,21 +287,21 @@
     <synopsis></synopsis>
     <runtime>3911</runtime>
   </item>
-  <item sdImg="http://cdn.cs50.net/2014/fall/seminars/hue_bulbs/hue_bulbs-140p.png" hdImg="http://cdn.cs50.net/2014/fall/seminars/hue_bulbs/hue_bulbs-140p.png">
+  <item sdImg="http://cdn.cs50.net/2014/fall/seminars/apps_with_objective_c/apps_with_objective_c-140p.png" hdImg="http://cdn.cs50.net/2014/fall/seminars/apps_with_objective_c/apps_with_objective_c-140p.png">
     <title>Learning iOS: Create your own app with Objective-C!</title>
-    <contentId>http://cdn.cs50.net/2014/fall/seminars/hue_bulbs/hue_bulbs-720p.mp4</contentId>
-    <subtitleUrl>http://cdn.cs50.net/2014/fall/seminars/hue_bulbs/lang/en/hue_bulbs.srt</subtitleUrl>
+    <contentId>http://cdn.cs50.net/2014/fall/seminars/apps_with_objective_c/apps_with_objective_c-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2014/fall/seminars/apps_with_objective_c/lang/en/apps_with_objective_c.srt</subtitleUrl>
     <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
       <streamQuality>HD</streamQuality>
-      <streamUrl>http://cdn.cs50.net/2014/fall/seminars/hue_bulbs/hue_bulbs-720p.mp4</streamUrl>
+      <streamUrl>http://cdn.cs50.net/2014/fall/seminars/apps_with_objective_c/apps_with_objective_c-720p.mp4</streamUrl>
     </media>
     <media>
       <streamFormat>mp4</streamFormat>
       <streamQuality>SD</streamQuality>
-      <streamUrl>http://cdn.cs50.net/2014/fall/seminars/hue_bulbs/hue_bulbs-360p.mp4</streamUrl>
+      <streamUrl>http://cdn.cs50.net/2014/fall/seminars/apps_with_objective_c/apps_with_objective_c-360p.mp4</streamUrl>
     </media>
     <synopsis></synopsis>
     <runtime>3249</runtime>

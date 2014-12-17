@@ -363,21 +363,21 @@
     <synopsis></synopsis>
     <runtime>148</runtime>
   </item>
-  <item sdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/conditions-1-140p.png" hdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/conditions-1-140p.png">
+  <item sdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/c/conditions-1-140p.png" hdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/c/conditions-1-140p.png">
     <title>conditions-1</title>
-    <contentId>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/conditions-1-720p.mp4</contentId>
-    <subtitleUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/lang/en/conditions-1.srt</subtitleUrl>
+    <contentId>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/c/conditions-1-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/c/lang/en/conditions-1.srt</subtitleUrl>
     <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
       <streamQuality>HD</streamQuality>
-      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/conditions-1-720p.mp4</streamUrl>
+      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/c/conditions-1-720p.mp4</streamUrl>
     </media>
     <media>
       <streamFormat>mp4</streamFormat>
       <streamQuality>SD</streamQuality>
-      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/conditions-1-360p.mp4</streamUrl>
+      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/conditions-1/c/conditions-1-360p.mp4</streamUrl>
     </media>
     <synopsis></synopsis>
     <runtime>87</runtime>
@@ -553,21 +553,21 @@
     <synopsis></synopsis>
     <runtime>59</runtime>
   </item>
-  <item sdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/CSS-0/CSS-0-140p.png" hdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/CSS-0/CSS-0-140p.png">
+  <item sdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/css-0/css-0-140p.png" hdImg="http://cdn.cs50.net/2013/fall/walkthroughs/lecture/css-0/css-0-140p.png">
     <title>css-0</title>
-    <contentId>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/CSS-0/CSS-0-720p.mp4</contentId>
-    <subtitleUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/CSS-0/lang/en/CSS-0.srt</subtitleUrl>
+    <contentId>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/css-0/css-0-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/css-0/lang/en/css-0.srt</subtitleUrl>
     <contentType>Talk</contentType>
     <contentQuality>HD</contentQuality>
     <media>
       <streamFormat>mp4</streamFormat>
       <streamQuality>HD</streamQuality>
-      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/CSS-0/CSS-0-720p.mp4</streamUrl>
+      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/css-0/css-0-720p.mp4</streamUrl>
     </media>
     <media>
       <streamFormat>mp4</streamFormat>
       <streamQuality>SD</streamQuality>
-      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/CSS-0/CSS-0-360p.mp4</streamUrl>
+      <streamUrl>http://cdn.cs50.net/2013/fall/walkthroughs/lecture/css-0/css-0-360p.mp4</streamUrl>
     </media>
     <synopsis></synopsis>
     <runtime>279</runtime>
