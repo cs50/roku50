@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed>
+  <resultLength>17</resultLength>
+  <endIndex>17</endIndex>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/objective_c/objective_c-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/objective_c/objective_c-140p.png">
+    <title>Awesome iPhone Apps with Objective-C</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/objective_c/objective_c-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/objective_c/lang/en/objective_c.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/objective_c/objective_c-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/objective_c/objective_c-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2316</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/aws/aws-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/aws/aws-140p.png">
+    <title>Building Apps for Mobile, Gaming, IoT and more using AWS DynamoDB</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/aws/aws-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/aws/lang/en/aws.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/aws/aws-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/aws/aws-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>6649</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/docker/docker-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/docker/docker-140p.png">
+    <title>Contain Yourself: An Intro to Docker and Containers</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/docker/docker-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/docker/lang/en/docker.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/docker/docker-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/docker/docker-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2801</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/cloud9/cloud9-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/cloud9/cloud9-140p.png">
+    <title>Customizing Cloud9 and the CS50 IDE</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/cloud9/cloud9-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/cloud9/lang/en/cloud9.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/cloud9/cloud9-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/cloud9/cloud9-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3318</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/web_audio/web_audio-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/web_audio/web_audio-140p.png">
+    <title>Exploring JavaScript and the Web Audio API</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/web_audio/web_audio-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/web_audio/lang/en/web_audio.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/web_audio/web_audio-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/web_audio/web_audio-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3236</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/c_to_python/c_to_python-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/c_to_python/c_to_python-140p.png">
+    <title>From C to Python</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/c_to_python/c_to_python-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/c_to_python/lang/en/c_to_python.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/c_to_python/c_to_python-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/c_to_python/c_to_python-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2843</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/fun_with_music/fun_with_music-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/fun_with_music/fun_with_music-140p.png">
+    <title>Fun with Music and Programming</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/fun_with_music/fun_with_music-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/fun_with_music/lang/en/fun_with_music.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/fun_with_music/fun_with_music-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/fun_with_music/fun_with_music-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3301</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/git/git-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/git/git-140p.png">
+    <title>How (and Why) You Should Use Git</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/git/git-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/git/lang/en/git.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/git/git-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/git/git-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3096</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/swift/swift-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/swift/swift-140p.png">
+    <title>iOS App Development with Swift</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/swift/swift-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/swift/lang/en/swift.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/swift/swift-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/swift/swift-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3988</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/flask/flask-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/flask/flask-140p.png">
+    <title>Python Web Apps with Flask</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/flask/flask-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/flask/lang/en/flask.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/flask/flask-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/flask/flask-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3242</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/bootstrap/bootstrap-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/bootstrap/bootstrap-140p.png">
+    <title>Responsive Design with Bootstrap</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/bootstrap/bootstrap-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/bootstrap/lang/en/bootstrap.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/bootstrap/bootstrap-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/bootstrap/bootstrap-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2833</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/ruby/ruby-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/ruby/ruby-140p.png">
+    <title>Ruby on Rails</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/ruby/ruby-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/ruby/lang/en/ruby.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/ruby/ruby-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/ruby/ruby-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3110</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/programming_with_r/programming_with_r-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/programming_with_r/programming_with_r-140p.png">
+    <title>Statistical Programming with R</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/programming_with_r/programming_with_r-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/programming_with_r/lang/en/programming_with_r.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/programming_with_r/programming_with_r-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/programming_with_r/programming_with_r-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3630</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/internet_of_things/internet_of_things-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/internet_of_things/internet_of_things-140p.png">
+    <title>The Internet of Things</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/internet_of_things/internet_of_things-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/internet_of_things/lang/en/internet_of_things.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/internet_of_things/internet_of_things-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/internet_of_things/internet_of_things-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>3519</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/react/react-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/react/react-140p.png">
+    <title>Web Apps of the Future with React</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/react/react-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/react/lang/en/react.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/react/react-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/react/react-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2911</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/web_scraping/web_scraping-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/web_scraping/web_scraping-140p.png">
+    <title>Web Scraping with Nokogiri/Kimono</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/web_scraping/web_scraping-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/web_scraping/lang/en/web_scraping.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/web_scraping/web_scraping-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/web_scraping/web_scraping-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2863</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/seminars/2d_games/2d_games-140p.png" hdImg="http://cdn.cs50.net/2015/fall/seminars/2d_games/2d_games-140p.png">
+    <title>Writing 2D Games in C using SDL</title>
+    <contentId>http://cdn.cs50.net/2015/fall/seminars/2d_games/2d_games-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/seminars/2d_games/lang/en/2d_games.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/2d_games/2d_games-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/seminars/2d_games/2d_games-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2851</runtime>
+  </item>
+</feed>
