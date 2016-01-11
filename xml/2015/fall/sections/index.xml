@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed>
-  <resultLength>53</resultLength>
-  <endIndex>53</endIndex>
+  <resultLength>54</resultLength>
+  <endIndex>54</endIndex>
   <item sdImg="http://cdn.cs50.net/2015/fall/sections/3/administrivia/administrivia-140p.png" hdImg="http://cdn.cs50.net/2015/fall/sections/3/administrivia/administrivia-140p.png">
     <title>Administrivia</title>
     <contentId>http://cdn.cs50.net/2015/fall/sections/3/administrivia/administrivia-720p.mp4</contentId>
@@ -875,6 +875,25 @@
     </media>
     <synopsis></synopsis>
     <runtime>481</runtime>
+  </item>
+  <item sdImg="http://cdn.cs50.net/2015/fall/sections/1/less/less-140p.png" hdImg="http://cdn.cs50.net/2015/fall/sections/1/less/less-140p.png">
+    <title>Supersection</title>
+    <contentId>http://cdn.cs50.net/2015/fall/sections/1/less/less-720p.mp4</contentId>
+    <subtitleUrl>http://cdn.cs50.net/2015/fall/sections/1/less/lang/en/less.srt</subtitleUrl>
+    <contentType>Talk</contentType>
+    <contentQuality>HD</contentQuality>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>HD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/sections/1/less/less-720p.mp4</streamUrl>
+    </media>
+    <media>
+      <streamFormat>mp4</streamFormat>
+      <streamQuality>SD</streamQuality>
+      <streamUrl>http://cdn.cs50.net/2015/fall/sections/1/less/less-360p.mp4</streamUrl>
+    </media>
+    <synopsis></synopsis>
+    <runtime>2243</runtime>
   </item>
   <item sdImg="http://cdn.cs50.net/2015/fall/sections/8/tcp/tcp-140p.png" hdImg="http://cdn.cs50.net/2015/fall/sections/8/tcp/tcp-140p.png">
     <title>TCP</title>
