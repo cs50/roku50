@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- main node which handles home screen children -->
+<component name="HomeScene" extends="Scene">
+
+    <interface>
+
+        <field id="itemID" type="string" />
+
+        <!-- Content for RowLists in CategoriesScreen on Home Scene -->
+        <field id="content" type="node" alias="CategoriesScreen.content" onChange="OnChangeContent"/>
+
+         <!-- Row item selection handlers -->
+        <field id="CategoryListItemSelected" type="intarray" alwaysNotify="true" alias="CategoriesScreen.CategoryListItemSelected" onChange="OnRowItemSelected"/>
+    </interface>
+
+    <!-- Main Scenegraph thread handler -->
+    <script type="text/brightscript" uri="pkg:/components/HomeScene/HomeScene.brs" />
+
+    <!-- rendevous to Main App thread -->
+    <script type="text/brightscript" uri="pkg:/source/main.brs" />
+
+    <children>
+
+        <!-- Grid screen with RowList on Home Scene -->
+        <CategoriesScreen
+            id="CategoriesScreen"
+            visible="true"
+            translation="[0,0]"
+        />
+
+    </children>
+</component>
