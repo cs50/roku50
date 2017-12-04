@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+<component name = "BuildSubcategoryLabelList" extends = "Task" >
+ 
+  <interface>
+  	<field id = "subCategoryContent" type = "node" />
+    <field id = "buttonListAA" type = "node" />
+    <field id = "linkArray" type = "stringarray" />
+    
+  </interface> 
+
+  <script type="text/brightscript" uri="pkg:/components/API/BuildSubcategoryLabelList.brs" />
+  <script type="text/brightscript" uri="pkg:/components/API/API_Utils.brs" />
+  <script type="text/brightscript" uri="pkg:/components/API/ButtonListFactory.brs" />
+
+</component>

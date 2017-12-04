@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component name="FetchSubCategory" extends="Task" >
+
+  <interface>
+  	<field id = "subCategoryContent" type = "node" />
+	<field id = "subCategoryUri" type = "string" />
+  </interface> 
+
+  <script type="text/brightscript" uri="pkg:/components/API/FetchSubCategory.brs" />
+  <script type="text/brightscript" uri="pkg:/components/API/API_Utils.brs" />
+  <script type="text/brightscript" uri="pkg:/components/API/GridRowFactory.brs" />
+</component>

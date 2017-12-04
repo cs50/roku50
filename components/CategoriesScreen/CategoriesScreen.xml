@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="CategoriesScreen" extends="Group" initialFocus="CategoryList">
+    <interface>
+
+        <!-- Grid Content Nodes For Each Row -->
+        <field id="content" type="node" alias="CategoryList.content" onChange="onContentChange"/>
+
+        <!-- buttonlist content node -->
+        <field id="buttonsContent" type="node" alias="SubCategoryLabelList.content" />
+		    <field id = "subCategoryLinkArray" type = "stringarray" />
+
+        <!-- Row item selection handlers -->
+        <field id="CategoryListItemSelected" type="intarray" alwaysnotify="true" alias="CategoryList.rowItemSelected"/>
+
+		    <!-- Postergrid content -->
+		    <field id = "posterContent" type="node" alias="PosterGridScreen.content"/>
+		
+		    <!-- index of video selected -->
+		    <field id = "videoSelected" type="int" alwaysnotify="true" alias="PosterGridScreen.itemSelected" />
+		
+        <!-- Row item focused handler 2 -->
+        <field id="itemFocused" type="intarray" alias="CategoryList.rowItemFocused" />
+        
+        <!-- labellist item focused -->
+        <field id="labelFocused" type="int" alias="SubCategoryLabelList.itemFocused" />
+
+        <!-- labellist item focused -->
+        <field id="videoFocused" type="int" alias="PosterGridScreen.itemFocused" />
+        
+        <!-- Row item focused handler -->
+        <field id="lastItemFocus" type="intarray"/>
+
+        <!-- Interface to focused item (Content Node) -->
+        <field id="focusedContent"  type="node"/>        
+
+		    <!-- title Accent Color -->
+		    <field id="titleAccentColor" type="string" alias="titleAccent.color" />
+		
+		    <!-- flag for postergrid being fully loaded -->
+		    <field id="posterGridDataLoaded" type="boolean" />
+		
+		    <!-- trigger to animate to subcategories -->
+		    <field id="AnimateToSubCategoriesState" type="string" alwaysNotify="true" alias="AnimateToSubCategories.state" />
+		
+		    <!-- is mask currently covering the screen -->
+        <field id="maskIsVisible" type="boolean" />
+
+        <!-- mask label text -->
+        <field id="ExitMaskLabelText" type="string" alias="ExitMaskLabel.text" />
+
+        <!-- exit button clicked trigger -->
+		    <field id="exitButtonClicked" type="integer" alwaysnotify="true" alias="exitDialogButtons.itemSelected" />
+		
+        <!-- flag to trigger exit action -->
+		    <field id="exitFlag" type="boolean" alwaysnotify="true" />
+    </interface>
+
+    <!-- main handler -->
+    <script type="text/brightscript" uri="pkg:/components/CategoriesScreen/CategoriesScreen.brs" />
+
+
+    <children>
+        <FadingBackground
+            id="Background"
+            width="1280"
+            height="720"
+            color="0x000000"
+            ShadeOpacity="0.5"
+        />
+            
+        <PosterGrid
+          id = "PosterGridScreen"
+          focusBitmapUri="pkg:/images/focus_button.9.png"
+          posterDisplayMode="scaleToZooom"
+          useAtlas="true"
+          loadingBitmapUri=""
+          captionVertAlignment="bottom"
+          translation = "[750,1500]"
+          basePosterSize = "[414,234]"
+          caption1NumLines = "1"
+          numColumns = "1"
+          numRows = "3"
+          itemSpacing = "[18,20]" 
+          visible = "true"
+        />
+
+        <Poster
+            id="playIcon"
+            width="80"
+            height="80"
+            translation="[910, 180]"
+            uri="pkg:/images/play2.png"
+            visible="false"
+        />
+
+        <Description
+            id="Description"
+            translation="[65, 120]"
+            itemSpacings="[7,17]"
+        />
+
+        <Rectangle
+            id="titleAccent"
+            translation="[62, 280]"
+            color="0xc90016FF"
+            width="92"
+            height="2"
+        />
+        
+        <RowList
+            id="CategoryList"
+            focusBitmapUri="pkg:/images/focus_button.9.png"
+            translation="[60, 300]"
+            itemSize="[1400, 708]"
+            numRows="1"
+            itemSpacing="[20, 0]"
+            focusXOffset="[0]"
+            vertFocusAnimationStyle="fixedFocus"
+            rowFocusAnimationStyle="fixedFocusWrap"
+            rowItemSize="[[394,276]]"            
+            rowItemSpacing="[[22, 2]]"
+            rowLabelFont="font:LargeSystemFont"
+            showRowLabel="true"
+            rowLabelColor="0xFFFFFFFF"
+            showRowCounter="true"
+            rowLabelOffset="[[0, 30]]"
+        />
+
+        <!-- subcategory buttons -->
+        <LabelList
+            id = "SubCategoryLabelList"
+            vertFocusAnimationStyle = "floatingFocus"
+            drawFocusFeedback = "false"         
+            color = "0xFFFFFFFF"
+            focusedColor = "0xc90016FF"
+            textHorizAlign = "left"
+            translation = "[200,1500]"
+            itemSize = "[600, 40]"
+            itemSpacing = "[0,44]"
+            visible = "false">
+
+            <ContentNode role = "content">
+
+            </ContentNode>
+
+        </LabelList>
+
+        <Rectangle
+            id="leftDivider"
+            translation="[180,1500]"
+            color="0xFFFFFFFF"
+            width="1"
+            height="540"
+        />
+        <Poster
+            translation="[0, 650]"
+            uri="pkg:/images/BG_dark_down.png"
+            width="3000"
+            height="95"
+        />
+
+        <Video
+          id="VideoPlayer"
+          width="1280"
+          height="720"
+          translation="[0,0]"
+          enableTrickPlay="true"
+          visible="false"
+        />
+
+      <Rectangle
+        id="ExitMask"
+        translation="[1300,0]"
+        width="1280"
+        height="720"
+        color="0x000000"
+        opacity="1"
+        visible = "true"
+      />
+
+      <Label 
+        id = "ExitMaskLabel"
+        height = "44"
+        width = "1280"
+        text = "Are you sure you want to exit?"
+        horizAlign = "center"
+        vertAlign = "center"
+        translation = "[4000,200]" 
+        visible = "true"
+      />
+
+      <LabelList
+        id = "exitDialogButtons"
+        vertFocusAnimationStyle = "floatingFocus"
+        drawFocusFeedback = "false"
+        color = "0xFFFFFFFF"
+        focusedColor = "0xc90016FF"
+        textHorizAlign = "center"
+        itemSize = "[1280, 60]"
+        translation = "[4000,330]"
+        itemSpacing = "[0,40]">
+
+        <ContentNode role = "content">
+          <ContentNode title = "Exit" />
+          <ContentNode title = "Cancel" />
+        </ContentNode>
+      </LabelList>
+        <!-- ==================================================================================================================== -->
+        <!-- ==================================================================================================================== -->
+        <Animation 
+          id = "AnimateToSubCategories"
+          duration = "1"
+          easeFunction = "inOutCubic" >
+
+          <Vector2DFieldInterpolator 
+            id = "CategoryListVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [60, 300], [60,-500] ]"
+            fieldToInterp = "CategoryList.translation"
+
+          />
+
+          <Vector2DFieldInterpolator 
+            id = "SubCategoryLabelListVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [200,1500], [200,100] ]"
+            fieldToInterp = "SubCategoryLabelList.translation"
+          />
+          
+          <Vector2DFieldInterpolator 
+            id = "leftDividerVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [180,1500], [180, 106] ]"
+            fieldToInterp = "leftDivider.translation"
+          />
+
+          <Vector2DFieldInterpolator 
+            id = "PosterGridScreenVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [750,1500], [750, 106] ]"
+            fieldToInterp = "PosterGridScreen.translation"
+          />
+          
+        </Animation>
+
+    <!-- ================= animate back to categories =========================================== -->
+        <Animation 
+          id = "AnimateBackToCategories"
+          duration = "1"
+          easeFunction = "inOutCubic" >
+
+          <Vector2DFieldInterpolator 
+            id = "CategoryListVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [60,-500], [60, 300] ]"
+            fieldToInterp = "CategoryList.translation"
+
+          />
+
+          <Vector2DFieldInterpolator 
+            id = "SubCategoryLabelListVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [200,100], [200,1500] ]"
+            fieldToInterp = "SubCategoryLabelList.translation"
+          />
+
+          <Vector2DFieldInterpolator 
+            id = "leftDividerVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [180, 106], [180,1500] ]"
+            fieldToInterp = "leftDivider.translation"
+          />
+          
+          <Vector2DFieldInterpolator 
+            id = "PosterGridScreenVector2D"
+            key = "[ 0.0, 1.0 ]" 
+            keyValue = "[ [750, 106], [750,1500] ]"
+            fieldToInterp = "PosterGridScreen.translation"
+          />
+          
+        </Animation>
+
+<!-- ==================================================================================================================== -->
+<!-- ==================================================================================================================== -->
+
+      <Animation 
+        id = "AnimateToShowExitMask"
+        duration = "1"
+        easeFunction = "inOutCubic" >
+
+        <Vector2DFieldInterpolator 
+          id = "ExitMaskVector2D"
+          key = "[ 0.0, 1.0 ]" 
+          keyValue = "[ [1300,0], [0,0] ]"
+          fieldToInterp = "ExitMask.translation"
+
+        />
+
+        <Vector2DFieldInterpolator 
+          id = "ExitMaskLabelVector2D"
+          key = "[ 0.0, 1.0 ]" 
+          keyValue = "[ [4000,200], [0,200] ]"
+          fieldToInterp = "ExitMaskLabel.translation"
+        />
+        
+        <Vector2DFieldInterpolator
+        	id = "exitDialogButtonsVector2D"
+          	key = "[ 0.0, 1.0 ]" 
+          	keyValue = "[ [4000,330], [0,330] ]"
+        	fieldToInterp = "exitDialogButtons.translation"
+        />
+        
+      </Animation>
+
+      <Animation 
+        id = "AnimateToHideExitMask"
+        duration = "1"
+        easeFunction = "inOutCubic" >
+
+        <Vector2DFieldInterpolator 
+          id = "ExitMaskVector2D"
+          key = "[ 0.0, 1.0 ]" 
+          keyValue = "[ [0,0],[1300,0] ]"
+          fieldToInterp = "ExitMask.translation"
+
+        />
+
+      <Vector2DFieldInterpolator 
+        id = "ExitMaskLabelVector2D"
+        key = "[ 0.0, 1.0 ]" 
+        keyValue = "[ [0,200], [4000,200] ]"
+        fieldToInterp = "ExitMaskLabel.translation"
+      />
+      
+        <Vector2DFieldInterpolator
+        	id = "exitDialogButtonsVector2D"
+          	key = "[ 0.0, 1.0 ]" 
+          	keyValue = "[ [0,330], [4000,330] ]"
+        	fieldToInterp = "exitDialogButtons.translation"
+        />
+             
+    </Animation>
+
+    </children>
+</component>
